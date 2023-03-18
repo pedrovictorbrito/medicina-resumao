@@ -1,3 +1,5 @@
+:::columns
+
 ## RESUMÃO DA SEGUNDA PI
 
 ## Anatomia do sistema reprodutor 
@@ -1952,3 +1954,5 @@ Além disso, um aspecto importante da absorção dos lipídeos é o seu papel de
 ![micela](micela.jpeg)
 
 São essas micelas que englobam em seu interior moléculas lipofílicas, como a **vitamina D** 🅟, e facilitam sua passagem através do epitélio intestinal (devido à sua afinidade com a membrana dos enterócitos).
+
+:::
