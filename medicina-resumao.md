@@ -2,7 +2,6 @@
 
 ## Sumário 
 
-- [RESUMÃO DA SEGUNDA PI](#resumao-da-segunda-pi)
 - [Anatomia do sistema reprodutor](#anatomia-do-sistema-reprodutor)
   * [ANATOMIA DO SISTEMA REPRODUTOR TESTICULAR](#anatomia-do-sistema-reprodutor-testicular)
   * [O escroto](#o-escroto)
