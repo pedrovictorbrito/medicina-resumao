@@ -3,90 +3,173 @@
 ## Sumário 
 
 - [Anatomia do sistema reprodutor ](#anatomia-do-sistema-reprodutor)
+
   * [ANATOMIA DO SISTEMA REPRODUTOR TESTICULAR ](#anatomia-do-sistema-reprodutor-testicular)
+
   * [O escroto](#o-escroto)
+
   * [O testículo ](#o-testículo)
+
   * [As vesículas seminais](#as-vesículas-seminais)
+
   * [A próstata ](#a-próstata)
+
     + [A URETRA PROSTÁTICA ](#a-uretra-prostática)
+
   * [As glândulas bulbouretrais](#as-glândulas-bulbouretrais)
+
   * [O pênis ](#o-pênis)
+
   * [Músculos acessórios da ejaculação ](#músculos-acessórios-da-ejaculação)
+
   * [O SISTEMA REPRODUTOR FEMININO](#o-sistema-reprodutor-feminino)
+
   * [Os grandes lábios ](#os-grandes-lábios)
+
   * [O vestíbulo ](#o-vestíbulo)
+
   * [O clitóris ](#o-clitóris)
+
   * [A vagina](#a-vagina)
+
   * [O útero](#o-útero)
+
   * [O ovário ](#o-ovário)
+
   * [As tubas uterinas](#as-tubas-uterinas)
+
 - [O sistema endócrino ](#o-sistema-endócrino)
+
   * [MECANISMOS INTRACELULARES DO EFEITO HORMONAL ](#mecanismos-intracelulares-do-efeito-hormonal)
+
   * [METABOLISMO DA GLICOSE](#metabolismo-da-glicose)
+
   * [O estado fisiológico do diabético e do pré-diabético](#o-estado-fisiológico-do-diabético-e-do-pré-diabético)
+
   * [As manifestações clínicas da diabetes](#as-manifestações-clínicas-da-diabetes)
+
   * [A diabetes descompensada](#a-diabetes-descompensada)
+
   * [Os diferentes transportadores de glicose do organismo ](#os-diferentes-transportadores-de-glicose-do-organismo)
+
   * [O efeito do estresse na glicemia ](#o-efeito-do-estresse-na-glicemia)
+
   * [O mecanismo diabetogênico do GH](#o-mecanismo-diabetogênico-do-gh)
+
   * [METABOLISMO DO CÁLCIO ](#metabolismo-do-cálcio)
+
   * [O paratormônio e a calcitonina](#o-paratormônio-e-a-calcitonina)
+
   * [A vitamina D](#a-vitamina-d)
+
   * [Manifestações clínicas da hipocalcemia](#manifestações-clínicas-da-hipocalcemia)
+
   * [A TIREÓIDE ](#a-tireóide)
+
   * [Os hormônios tireoideanos e seus efeitos](#os-hormônios-tireoideanos-e-seus-efeitos)
+
   * [A produção dos hormônios tireoideanos](#a-produção-dos-hormônios-tireoideanos)
+
   * [O hipertireoidismo](#o-hipertireoidismo)
+
     + [TRÍADE DIAGNÓSTICA ](#tríade-diagnóstica)
+
     + [CAUSA FISIOLÓGICA ](#causa-fisiológica)
+
   * [Hipotireoidismo](#hipotireoidismo)
+
     + [TRÍADE DIAGNÓSTICA ](#tríade-diagnóstica-1)
+
     + [CAUSA FISIOLÓGICA ](#causa-fisiológica-1)
+
   * [A HIPÓFISE ](#a-hipófise)
+
   * [A adenohipófise](#a-adenohipófise)
+
     + [LINHAGEM DA ECTODERMA ORAL](#linhagem-da-ectoderma-oral)
+
     + [LINHAGEM DA NEUROECTODERMA](#linhagem-da-neuroectoderma)
+
   * [A neurohipófise](#a-neurohipófise)
+
   * [As suprarrenais](#as-suprarrenais)
+
   * [O pâncreas ](#o-pâncreas)
+
   * [O ciclo hormonal feminino](#o-ciclo-hormonal-feminino)
+
     + [As fases do ciclo menstrual](#as-fases-do-ciclo-menstrual)
+
 - [O sistema digestivo](#o-sistema-digestivo)
+
   * [A REGIÃO ORAL](#a-região-oral)
+
   * [A língua ](#a-língua)
+
   * [Os dentes](#os-dentes)
+
   * [O ESÔFAGO](#o-esôfago)
+
   * [O ESTÔMAGO ](#o-estômago)
+
   * [O INTESTINO DELGADO ](#o-intestino-delgado)
+
     + [O duodeno](#o-duodeno)
+
   * [O INTESTINO GROSSO](#o-intestino-grosso)
+
   * [Aspectos gerais](#aspectos-gerais)
-  * [Os mesentérios e as tênias cólicas](#os-mesentérios-e-as-tênias-cólicas)
+
   * [A MOTILIDADE GERAL DO SISTEMA DIGESTIVO](#a-motilidade-geral-do-sistema-digestivo)
+
   * [VASCULARIZAÇÃO DO SISTEMA DIGESTIVO](#vascularização-do-sistema-digestivo)
+
   * [Vascularização das vísceras abdominais](#vascularização-das-vísceras-abdominais)
+
   * [Vascularização do fígado ](#vascularização-do-fígado)
+
   * [HISTOLOGIA DO SISTEMA GASTROINTESTINAL](#histologia-do-sistema-gastrointestinal)
+
   * [Os epitélios predominantes do trato digestivo](#os-epitélios-predominantes-do-trato-digestivo)
+
     + [EPITÉLIO PAVIMENTOSO ESTRATIFICADO NÃO-QUERATINIZADO ](#epitélio-pavimentoso-estratificado-não-queratinizado)
+
   * [EPITÉLIO SIMPLES COLUNAR NÃO-CILIADO](#epitélio-simples-colunar-não-ciliado)
+
   * [EPITÉLIO CÚBICO ESTRATIFICADO ](#epitélio-cúbico-estratificado)
+
   * [Aprofundamento sobre a histologia de órgãos específicos](#aprofundamento-sobre-a-histologia-de-órgãos-específicos)
+
     + [HISTOLOGIA DA LÍNGUA ](#histologia-da-língua)
+
     + [As papilas gustativas ](#as-papilas-gustativas)
+
     + [HISTOLOGIA DAS GLÂNDULAS SALIVARES](#histologia-das-glândulas-salivares)
+
     + [HISTOLOGIA DO INTESTINO](#histologia-do-intestino)
+
     + [As camadas do intestino](#as-camadas-do-intestino)
+
       - [O EPITÉLIO INTESTINAL](#o-epitélio-intestinal)
+
     + [Adaptações absorptivas do intestino](#adaptações-absorptivas-do-intestino)
+
   * [BIOQUÍMICA DO SISTEMA DIGESTIVO](#bioquímica-do-sistema-digestivo)
+
   * [Indicadores laboratoriais da função hepática ](#indicadores-laboratoriais-da-função-hepática)
+
   * [Metabolismo da bilirrubina ](#metabolismo-da-bilirrubina)
+
   * [Metabolismo de carboidratos](#metabolismo-de-carboidratos)
+
     + [DIGESTÃO DOS CARBOIDRATOS ](#digestão-dos-carboidratos)
+
     + [ABSORÇÃO DOS CARBOIDRATOS ](#absorção-dos-carboidratos)
+
   * [As fibras alimentares](#as-fibras-alimentares)
-  * [A absorção dos lipídeos](#a-absorção-dos-lipídeos) 
+
+  * [A absorção dos lipídeos](#a-absorção-dos-lipídeos)
+ 
 
 ## Anatomia do sistema reprodutor 
 
