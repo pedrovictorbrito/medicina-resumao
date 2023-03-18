@@ -1,12 +1,99 @@
 ## RESUMÃO DA SEGUNDA PI
 
+## Sumário 
+
+- [RESUMÃO DA SEGUNDA PI](#resumao-da-segunda-pi)
+- [Anatomia do sistema reprodutor](#anatomia-do-sistema-reprodutor)
+  * [ANATOMIA DO SISTEMA REPRODUTOR TESTICULAR](#anatomia-do-sistema-reprodutor-testicular)
+  * [O escroto](#o-escroto)
+  * [O testículo](#o-testiculo)
+  * [As vesículas seminais](#as-vesiculas-seminais)
+  * [A próstata](#a-prostata)
+    + [A URETRA PROSTÁTICA](#a-uretra-prostatica)
+  * [As glândulas bulbouretrais](#as-glandulas-bulbouretrais)
+  * [O pênis](#o-penis)
+  * [Músculos acessórios da ejaculação](#musculos-acessorios-da-ejaculacao)
+  * [O SISTEMA REPRODUTOR FEMININO](#o-sistema-reprodutor-feminino)
+  * [Os grandes lábios](#os-grandes-labios)
+  * [O vestíbulo](#o-vestibulo)
+  * [O clitóris](#o-clitoris)
+  * [A vagina](#a-vagina)
+  * [O útero](#o-utero)
+  * [O ovário](#o-ovario)
+  * [As tubas uterinas](#as-tubas-uterinas)
+- [O sistema endócrino](#o-sistema-endocrino)
+  * [MECANISMOS INTRACELULARES DO EFEITO HORMONAL](#mecanismos-intracelulares-do-efeito-hormonal)
+  * [METABOLISMO DA GLICOSE](#metabolismo-da-glicose)
+  * [O estado fisiológico do diabético e do pré-diabético](#o-estado-fisiologico-do-diabetico-e-do-pre-diabetico)
+  * [As manifestações clínicas da diabetes](#as-manifestacoes-clinicas-da-diabetes)
+  * [A diabetes descompensada](#a-diabetes-descompensada)
+  * [Os diferentes transportadores de glicose do organismo](#os-diferentes-transportadores-de-glicose-do-organismo)
+  * [O efeito do estresse na glicemia](#o-efeito-do-estresse-na-glicemia)
+  * [O mecanismo diabetogênico do GH](#o-mecanismo-diabetogenico-do-gh)
+  * [METABOLISMO DO CÁLCIO](#metabolismo-do-calcio)
+  * [O paratormônio e a calcitonina](#o-paratormonio-e-a-calcitonina)
+  * [A vitamina D](#a-vitamina-d)
+  * [Manifestações clínicas da hipocalcemia](#manifestacoes-clinicas-da-hipocalcemia)
+  * [A TIREÓIDE](#a-tireoide)
+  * [Os hormônios tireoideanos e seus efeitos](#os-hormonios-tireoideanos-e-seus-efeitos)
+  * [A produção dos hormônios tireoideanos](#a-producao-dos-hormonios-tireoideanos)
+  * [O hipertireoidismo](#o-hipertireoidismo)
+    + [TRÍADE DIAGNÓSTICA](#triade-diagnostica)
+    + [CAUSA FISIOLÓGICA](#causa-fisiologica)
+  * [Hipotireoidismo](#hipotireoidismo)
+    + [TRÍADE DIAGNÓSTICA](#triade-diagnostica-1)
+    + [CAUSA FISIOLÓGICA](#causa-fisiologica-1)
+  * [A HIPÓFISE](#a-hipofise)
+  * [A adenohipófise](#a-adenohipofise)
+    + [LINHAGEM DA ECTODERMA ORAL](#linhagem-da-ectoderma-oral)
+    + [LINHAGEM DA NEUROECTODERMA](#linhagem-da-neuroectoderma)
+  * [A neurohipófise](#a-neurohipofise)
+  * [As suprarrenais](#as-suprarrenais)
+  * [O pâncreas](#o-pancreas)
+  * [O ciclo hormonal feminino](#o-ciclo-hormonal-feminino)
+    + [As fases do ciclo menstrual](#as-fases-do-ciclo-menstrual)
+- [O sistema digestivo](#o-sistema-digestivo)
+  * [A REGIÃO ORAL](#a-regiao-oral)
+  * [A língua](#a-lingua)
+  * [O dente](#o-dente)
+  * [O ESÔFAGO](#o-esofago)
+  * [O ESTÔMAGO](#o-estomago)
+  * [O INTESTINO DELGADO](#o-intestino-delgado)
+    + [O duodeno](#o-duodeno)
+  * [O INTESTINO GROSSO](#o-intestino-grosso)
+  * [Aspectos gerais](#aspectos-gerais)
+  * [Os mesentérios e as tênias cólicas](#os-mesenterios-e-as-tenias-colicas)
+  * [A MOTILIDADE GERAL DO SISTEMA DIGESTIVO](#a-motilidade-geral-do-sistema-digestivo)
+  * [VASCULARIZAÇÃO DO SISTEMA DIGESTIVO](#vascularizacao-do-sistema-digestivo)
+  * [Vascularização das vísceras abdominais](#vascularizacao-das-visceras-abdominais)
+  * [Vascularização do fígado](#vascularizacao-do-figado)
+  * [HISTOLOGIA DO SISTEMA GASTROINTESTINAL](#histologia-do-sistema-gastrointestinal)
+  * [Os epitélio predominantes do trato digestivo](#os-epitelio-predominantes-do-trato-digestivo)
+    + [EPITÉLIO PAVIMENTOSO ESTRATIFICADO NÃO-QUERATINIZADO](#epitelio-pavimentoso-estratificado-nao-queratinizado)
+  * [EPITÉLIO SIMPLES COLUNAR NÃO-CILIADO](#epitelio-simples-colunar-nao-ciliado)
+  * [EPITÉLIO CÚBICO ESTRATIFICADO](#epitelio-cubico-estratificado)
+  * [Aprofundamento sobre a histologia de órgãos específicos](#aprofundamento-sobre-a-histologia-de-orgaos-especificos)
+    + [HISTOLOGIA DA LÍNGUA](#histologia-da-lingua)
+    + [As papilas gustativas](#as-papilas-gustativas)
+    + [HISTOLOGIA DAS GLÂNDULAS SALIVARES](#histologia-das-glandulas-salivares)
+    + [HISTOLOGIA DO INTESTINO](#histologia-do-intestino)
+    + [As camadas do intestino](#as-camadas-do-intestino)
+      - [O EPITÉLIO INTESTINAL](#o-epitelio-intestinal)
+    + [Adaptações absorptivas do intestino](#adaptacoes-absorptivas-do-intestino)
+  * [BIOQUÍMICA DO SISTEMA DIGESTIVO](#bioquimica-do-sistema-digestivo)
+  * [Indicadores laboratoriais da função hepática](#indicadores-laboratoriais-da-funcao-hepatica)
+  * [Metabolismo da bilirrubina](#metabolismo-da-bilirrubina)
+  * [Metabolismo de carboidratos](#metabolismo-de-carboidratos)
+    + [DIGESTÃO DOS CARBOIDRATOS](#digestao-dos-carboidratos)
+    + [ABSORÇÃO DOS CARBOIDRATOS](#absorcao-dos-carboidratos)
+  * [As fibras alimentares](#as-fibras-alimentares)
+  * [A absorção dos lipídeos](#a-absorcao-dos-lipideos) 
+
 ## Anatomia do sistema reprodutor 
 
 > O 🅟 logo após uma frase ou um parágrafo indica que aquela informação já caiu em prova
 
 ### ANATOMIA DO SISTEMA REPRODUTOR TESTICULAR 
-
-![geral-reprodutor-masculino-grays](geral-reprodutor-masculino-grays.jpg)
 
 ### O escroto
 
@@ -96,7 +183,7 @@ Já a respeito do tubo deferente, esse apresenta-se dentro do escroto envolvido 
 
 ![cordao-espermatico-openstax-2022](cordao-espermatico-openstax-2022.jpg)
 
-O papel desse duto é de, no momento da ejaculação, ejetar os espermatozóides (com o auxílio de suas paredes musculares) para fora do escroto, através do **canal inguinal** e, eventualmente, para uma estrutura denominada **ampoula** localizada posteriormente à bexiga (que nada mais é do que uma dilatação do próprio tubo).
+O papel desse duto é de, no momento da ejaculação, ejetar os espermatozóides (com o auxílio de suas paredes musculares) para fora do escroto, através do **canal inguinal** e, eventualmente, para uma estrutura denominada **ampola** localizada posteriormente à bexiga (que nada mais é do que uma dilatação do próprio tubo).
 
 ![duto-deferente-thibodeau-and-paton-2007](duto-deferente-thibodeau-and-paton-2007.jpg)
 ![ampoula-openstax-2022](ampoula-openstax-2022.jpg)
@@ -112,15 +199,15 @@ A principal delas é a **artéria testicular**, que é acompanhada no seu compri
 
 ![vascular-thibodeau-and-paton-2007](vascular-thibodeau-and-paton-2007.jpg)
 
-Não se restringindo ao retorno venoso, esse plexo também tem uma função essencial quanto ao controle da temperatura testicular. Isso ocorre, pois o sangue venoso ascendente forma um sistema de contracorrente com o sangue arterial que está descendo. A proximidade das duas correntes faz com que o calor passe da via arterial para a venosa e o sangue abdominal chegue mais frio aos testículos, matendo, assim, a temperatura ótima para a espermatogênese.
+Não se restringindo ao retorno venoso, esse plexo também tem uma função essencial quanto ao controle da temperatura testicular. Isso ocorre, pois o sangue venoso ascendente forma um **sistema de contracorrente** com o sangue arterial que está descendo. A proximidade das duas correntes faz com que o calor passe da via arterial para a venosa e o sangue abdominal chegue mais frio aos testículos, matendo, assim, a temperatura ótima para a espermatogênese.
 
 Apesar dos espermatozóides constituírem a parte mais importante do sêmen, eles só compõem 5% do líquido. O restante é composto pelas três glândulas acessórias do sistema reprodutor masculino: as **vesículas seminais**, a **próstata** e as **glândulas bulbouretrais**.
 
 ### As vesículas seminais
 
-Quando os espermatozóides passam pela ampoula no momento da ejaculação, eles se misturam com um fluido rico em frutose liberado pelas vesículas seminais. Essa mistura servirá como substrato energético para os espermatozóides no caminho até a inseminação.
+Quando os espermatozóides passam pela ampoula no momento da ejaculação, eles se misturam com um fluido rico em **frutose** liberado pelas **vesículas seminais**. Essa mistura servirá como substrato energético para os espermatozóides no caminho até a inseminação.
 
-Após a ampoula, o tubo deferente e o da vesícula seminal se fundem para formar o **duto ejaculatório**.
+Após a ampoula, o tubo deferente e o da vesícula seminal se fundem para formar o **ducto ejaculatório**.
 
 ![ampoula-ejaculatorio-grays](ampoula-ejaculatorio-grays.jpg)
 
@@ -134,7 +221,7 @@ O par de dutos ejaculatórios transportam a nova mistura para uma estrutura ímp
 
 A próstata é uma glândula central localizada anteriormente ao reto e inferiormente à bexiga urinária, circundando a **uretra prostática** (a parte da uretra que passa por dentro da próstata).
 
-Ela é responsável por acrescentar ao sêmen uma substância alcalina, o que vai ajudar o líquido a coagular e manter sua consistência dentro do trato feminino.
+Ela é responsável por acrescentar ao sêmen uma substância alcalina, o que vai ajudar o líquido a coagular (endurecer) e manter sua consistência dentro do trato feminino.
 
 ![prostata-grays](prostata-grays.jpg)
 
@@ -159,7 +246,7 @@ Essas duas estruturas funcionam em uníssono, pois é com a contração do utrí
 ![utriculos-esquema-grays](utriculos-esquema-grays.jpg)
 ![utriculo-foto-grays](utriculo-foto-grays.jpg)
 
-> **CAIU EM PROVA**
+> **CAIU EM PROVA!**
 > 
 > “O utrículo está localizado:”
 >
@@ -183,7 +270,7 @@ Também chamadas de **glândulas de Cowper**, são elas que produzem o líquido 
 
 ![bulbouretral-transverso-profundo-grays](bulbouretral-transverso-profundo-grays.jpg)
 
-Note que ela fica aderida firmemente à base do pênis (bulbo) e entre as fibras do músculo transverso profundo do períneo.
+Note que ela fica aderida firmemente à base do pênis (bulbo) e entre as fibras do **músculo transverso profundo do períneo**.
 
 ### O pênis 
 
@@ -233,7 +320,7 @@ Junto com os músculos do assoalho pélvico, os músculos **isquiocavernoso** e 
 ![ischiocavernosus-grays](ischiocavernosus-grays.png)
 ![bulbospongiosus-grays](bulbospongiosus-grays.png)
 
-## O sistema reprodutor feminino
+### O SISTEMA REPRODUTOR FEMININO
 
 Os sistema reprodutor feminino consiste tanto de estruturas que compõem a genitália externa quanto aquelas que compõem a genitália interna.
 
@@ -241,13 +328,13 @@ O primeiro grupo, também chamado de **vulva**, é composto por todas as estrutu
 
 Já a respeito da genitália interna, essa é composta pela **vagina**, o **útero**, os **ovários** e as **tubas uterinas** (também chamadas de **“trompas de Falópio”**).
 
-### OS GRANDES LÁBIOS 
+### Os grandes lábios 
 
 Os grandes lábios são as duas dobras cutâneas longitudinais maiores da genitália feminina. Eles delimitam um espaço chamado **fenda da vulva** (ou **rima do pudendo**). Seu ponto de encontro superior forma a **comissura anterior** e o inferior a **comissura posterior**.
 
 ![vulva-kenhub](vulva-kenhub.jpg)
 
-### O VESTÍBULO 
+### O vestíbulo 
 
 O vestíbulo é a área delimitada pelos lábios menores (os mais _internos_). É nele onde estão localizados os óstios da uretra e da vagina e também as **glândulas vestibulares**.
 
@@ -265,17 +352,17 @@ As glândulas de Skene são homólogas à próstata masculina e também liberam 
 
 Já as de Bartholin são homólogas às glândulas bulbouretrais masculinas e sua função é sabida: elas são responsáveis por liberar o muco lubrificante da vagina. Essa secreção mistura-se com outros fluidos vaginais para formar um líquido ácido (pH = 4,7) e rico em potássio (adequado para o micro-ambiente vaginal).
 
-Além disso, em cada região lateral do vestíbulo é possível encontrar duas elevações formadas pelos **bulbos do vestíbulo**, que compõem uma estrutura quase contínua com o clítoris.
+Além disso, em cada região lateral do vestíbulo, é possível encontrar duas elevações formadas pelos **bulbos do vestíbulo**, que compõem uma estrutura quase contínua com o clítoris.
 
 ![bulbo-vestibulo-grays](bulbo-vestibulo-grays.jpg)
 
-### O CLITÓRIS 
+### O clitóris 
 
 O clitóris é o órgão análogo ao pênis masculino. Assim como o pênis, possui uma **glande**, um **prepúcio** e dois **corpos cavernosos**. Além disso, seu corpo apresenta duas projeções que o fixam no períneo: os **ramos do clítoris**.
 
 ![ramo-clitoris-grays](ramo-clitoris-grays.png)
 
-### A VAGINA
+### A vagina
 
 A vagina é o órgão feminino interno mais superficial. Estende-se do útero à vulva e está localizada anteriormente ao reto e posteriormente à bexiga e à uretra.
 
@@ -286,7 +373,7 @@ Sua entrada é conhecida como **óstio vaginal** e sua superfície mais posterio
 
 Em alguns casos, pode haver, num espaço um pouco posteriormente à abertura do óstio vaginal, uma membrana perfurada denominada **hímen**. Essa estrutura é usualmente rompida durante o primeiro ato sexual e é sinônimo, na cultura popular, da virgindade feminina.
 
-### O ÚTERO 
+### O útero
 
 O útero é um órgão muscular oco que se localiza anteriormente ao reto e póstero-superiormente à bexiga.
 
@@ -294,7 +381,7 @@ Ele é encontrado, usualmente, numa posição de **anteversão e anteflexão**, 
 
 Sua estrutura pode ser dividida em três regiões macroscópicas:
 
-- **O corpo:** que é o que contém a **cavidade uterina** em si, além do **fundo** e dos **cornos uterinos** (que conectam o útero às tubas).
+- **O corpo:** que é onde fica a **cavidade uterina** em si, além do **fundo** e dos **cornos uterinos** (que conectam o útero às tubas).
 
 ![corpo-fundo-utero-transversal-grays](corpo-fundo-utero-transversal-grays.jpg)
 ![fundo-utero-grays](fundo-utero-grays.jpg)
@@ -313,7 +400,7 @@ O ligamento largo é, na realidade, uma dobra do _peritônio_, e não um ligamen
 >
 > Em certas ocasiões, quando o abdome é submetido a pressão excessiva e os ligamentos e músculos da pelve estão enfraquecidos, é possível que o útero seja deslocado de sua posição anatômica e colapse para dentro da vagina.
 
-### O OVÁRIO 
+### O ovário 
 
 O ovário é o protagonista hormonal do sistema reprodutor feminino. É um órgão par localizado lateralmente ao útero e inferior à tuba uterina.
 
@@ -327,7 +414,7 @@ Dentre esses ligamentos, há 3 que contribuem para a sustentação do ovário:
 
 Perceba que eles estão representados junto com um ovário seccionado, pois, na vista anterior do sistema reprodutor feminino, eles ficam oclusos pelo _ligamento largo do útero_ 🅟
 
-### AS TUBAS UTERINAS
+### As tubas uterinas
 
 As tubas uterinas são um par de órgãos musculares que se estendem desde o **corno uterino** da parte lateral do útero até o ovário (ligando os dois).
 
@@ -349,23 +436,23 @@ As tubas uterinas são divididas em vários segmentos no seu comprimento até de
 
 Os hormônios podem ser divididos em dois tipos a depender de sua natureza química: **esteróides** e **polipeptídicos**.
 
-Os hormônios esteróides são apolares, pois são derivados do colesterol, um lipídio. Por esse motivo, eles têm facilidade em atravessar a membrana plasmática e atuar nas estruturas de dentro da célula.
+Os hormônios esteróides são apolares, pois são derivados do **colesterol**, um lipídeo. Por esse motivo, eles têm facilidade em atravessar a membrana plasmática e atuar nas estruturas de dentro da célula.
 
-Essa atuação pode ser dar de duas formas: ou o hormônio liga-se a uma substância citoplasmática formando um complexo capaz de modular a expressão genética ou ele se liga diretamente na cromatina e exerce seus efeitos.
+Essa atuação pode dar-se de duas formas: ou o hormônio liga-se a uma substância citoplasmática formando um complexo capaz de modular a expressão genética ou ele se liga diretamente na cromatina e exerce seus efeitos.
 
-Os hormônios da tireóide (T3 e T4) apesar de não serem esteróides, pertencem a esse segundo grupo de hormônios que atuam como fatores de transição sem intermédio de outra substância, estimulando receptores nucleares diretamente 🅟 
+Os hormônios da tireóide (**T3** e **T4**) apesar de _não_ serem esteróides, pertencem a esse segundo grupo de hormônios que atuam como fatores de transcrição sem intermédio de outra substância, estimulando receptores nucleares diretamente 🅟 
 
-O TSH, por outro lado, assim como todos os outros hormônios polipeptídicos, é polar e não consegue atravessar a membrana lipídica da célula. Desse modo, para que ele atue num determinado tecido, ele precisa que as células exponham receptores específicos para ele na parte externa de sua membrana.
+O **TSH**, por outro lado, assim como todos os outros hormônios polipeptídicos, é polar e não consegue atravessar a membrana lipídica da célula. Desse modo, para que ele atue num determinado tecido, ele precisa que as células exponham receptores específicos para ele na parte externa de sua membrana.
 
-Quando o TSH liga-se a esse receptor, inicia-se uma cascata, na qual o receptor promove o desmantelamento de uma proteína chamada “proteína G”, cujo um dos componentes é o cofator necessário para ativar uma enzima denominada **adenilato ciclase** 🅟
+Quando o TSH liga-se a esse receptor, inicia-se uma cascata, na qual o receptor promove o desmantelamento de uma proteína chamada “proteína G”, cujo um dos componentes é o cofator necessário para ativar outra enzima denominada **adenilato ciclase** 🅟
 
 ![adenilato-ciclase-guyton-and-hall-2006](adenilato-ciclase-guyton-and-hall-2006.jpg)
 
-> **CAIU EM PROVA**
+> **CAIU EM PROVA!**
 > 
-> Ainda sobre a possível causa da diminuição do TSH, e também o seu mecanismo de ação nas células-alvo, assinale a alternativa CORRETA:
+> “Ainda sobre a possível causa da diminuição do TSH, e também o seu mecanismo de ação nas células-alvo, assinale a alternativa CORRETA:”
 >
-> A) T4 inibe regula a liberação de TSH, estimulação de transcrição.
+> A) T4 inibe regula (sic) a liberação de TSH, estimulação de transcrição.
 >
 > B) O TRH inibe a liberação do TSH, cascata da guanilato ciclase.
 > 
@@ -383,11 +470,11 @@ Essa enzima é responsável por converter uma molécula de ATP em AMPc (adenosin
 
 Outro mecanismo relevante de sinalização intracelular é o da **insulina**.
 
-Na realidade, esse hormônio apresenta duas vias de sinalização intermediária: a via da **adenilato ciclase** e a via da **tiosina quinase**. Porém, é apenas essa segunda que auxilia a insulina nos seus dois papéis metabólicos, como na lipogênese 🅟 e na redução da glicemia 🅟
+Na realidade, esse hormônio apresenta duas vias de sinalização intermediária: a via da **adenilato ciclase** e a via da **tirosina quinase**. Porém, é apenas essa segunda que auxilia a insulina nos seus dois papéis metabólicos, como na lipogênese 🅟 e na redução da glicemia 🅟
 
 Esse segundo efeito é resultado da capacidade da insulina de mobilizar os canais de glicose (GLUT-4) dispersos no citoplasma para a membrana das células 🅟 
 
-Para alcançar esse resultado, esse hormônio promove a ativação do **IRS-1**, uma proteína intracelular que tem a capadidade de levar à ativação de inúmeros outros mensageiros simultaneamente. Um desses intermediários é a fosfatidilinositol-3-quinase (**PIK-3**), responsável pela cascata do “fosfatidilinositol”. E é por intermédio desse mecanismo que os canais de glicose são levados à membrana.
+Para alcançar esse resultado, esse hormônio promove a ativação do **IRS-1**, uma proteína intracelular que tem a capadidade de causar a ativação de inúmeros outros mensageiros simultaneamente. Um desses intermediários é a fosfatidilinositol-3-quinase (**PIK-3**), responsável pela cascata do “fosfatidilinositol”. E é por intermédio desse mecanismo que os canais de glicose são levados à membrana.
 
 Essa grande dependência da insulina em mensageiros intracelulares é o que estreita a sua relação com doenças e medicamentos que também dependem dessas vias bioquímicas. É assim, por exemplo, que explica-se a relação entre diabetes e hipertensão, visto que a angiotensina inibe a cascata do IRS-1 e -2 e, consequentemente, do PIK3, o que reduz o efeito da insulina nos tecidos 🅟
 
@@ -445,23 +532,23 @@ Por enquanto, o foco do metabolismo da glicose será sobre a insulina, pois é e
 
 A diabetes é uma doença insidiosa, que manifesta-se inicialmente como uma condição chamada **resistência à insulina**, ou “pré-diabetes”.
 
-Na resistência à insulina, o corpo apresenta os primeiros sinais de disfunção do metabolismo da glicose. Nos períodos de jejum, a glicemia apresenta-se controlada, mas, durante o pós-prandial, é perceptível os primeiros picos de hiperglicemia.
+Na resistência à insulina, o corpo apresenta os primeiros sinais de disfunção do metabolismo da glicose. Nos períodos de jejum, a glicemia apresenta-se controlada, mas, durante o pós-prandial, é perceptível picos esporádicos de hiperglicemia.
 
 Com o tempo, essa resistência agrava-se de tal forma que a glicose torna-se verdadeiramente indisponível aos tecidos devido à redução da ação mediatória da insulina.
 
-Nesse estágio, o paciente de fato adquire a **diabetes**. Mais precisamente, a variação tipo 2 da diabetes mellitus, que é causada por fatores genéticos e ambientais (má alimentação e sedentarismo).
+Nesse estágio, o paciente de fato adquire a **diabetes**. Mais precisamente, ele é diagnosticado com a variação **tipo 2** da diabetes mellitus, que é causada por fatores genéticos e ambientais (má alimentação e sedentarismo).
 
-É somente no estágio mais avançado da resistência à insulina, na qual o paciente já é diabético 🅟, que uma série de mecanismos refratários começam a acontecer no metabolismo do paciente.
+É somente no estágio mais avançado da resistência à insulina, na qual o paciente já é diabético 🅟, que uma série de mecanismos refratários começam a acontecer no seu metabolismo.
 
-Por exemplo, na diabetes, há, paradoxalmente, uma elevação dos níveis de glucagon no corpo (mesmo que a glicemia já esteja acima do normal!) 🅟 A razão disso é justamente a indisponibilidade da glicose sanguínea para as células, que acabam tendo que recorrer a outros meios de mobilizar a glicose intracelular. 
+Por exemplo, na diabetes, há, paradoxalmente, uma elevação dos níveis de **glucagon** no corpo (mesmo que a glicemia já esteja acima do normal!) 🅟 A razão disso é justamente a indisponibilidade da glicose sanguínea para as células, que acabam tendo que recorrer a outros meios de mobilizar a glicose **intracelular**. 
 
-Uma dessas estratégias é quebrar o glicogênio já existente no interior do citoplasma, e o hormônio que promove esse mecanismo é justamente o glucagon.
+Uma dessas estratégias é quebrar o **glicogênio** já existente no interior do citoplasma, e o hormônio que promove esse mecanismo é precisamente o glucagon.
 
-Em seguida, como forma de gerar mais glicose além da pré-existente em forma de glicogênio no citoplasma, as células optam pela gliconeogênese 🅟, que também é promovida pelo glucagon.
+Em seguida, como forma de gerar mais glicose além da pré-existente em forma de glicogênio no citoplasma, as células optam pela **gliconeogênese** 🅟, que também é promovida pelo glucagon.
 
 Outra razão pela qual há esse aumento paradoxal do glucagon na diabetes deve-se ao esgotamento hormonal que a hiperglicemia provoca. Em outras palavras, chega um momento em que a demanda por insulina está tão grande que as células beta do pâncreas ficam lesionadas e começam a de fato perder sua capacidade de secreção.
 
-Como a liberação de insulina também é um mecanismo de feedback negativo das células alfa do pâncreas (ou seja, a secreção de insulina inibe a de glucagon), quando a sua produção começa a decair, o células alfa tornam-se livres para aumentar a liberação de glucagon, o que acaba até piorando o estado metabólico do paciente.
+Como a liberação de insulina também é um mecanismo de **feedback negativo** das células alfa do pâncreas (ou seja, a secreção de insulina inibe a de glucagon), quando a sua produção começa a decair, o células alfa tornam-se livres para aumentar a liberação de glucagon, o que, ao fim, agravará o estado metabólico do paciente.
 
 > **CAIU EM PROVA!**
 > 
@@ -497,15 +584,15 @@ Porém, na sabedoria popular, o termo “diabetes” refere-se, sobretudo, à **
 
 ### A diabetes descompensada
 
-Devido à grande dependência do sistema nervoso central quanto à glicose do sangue, o corpo diabético, quando não pode depender do efeito da insulina para mover esse metabólico através da barreira hematoencefálica, acaba tendo que recorrer a outros compostos para alimentar o encéfalo.
+Devido à grande dependência do sistema nervoso central à glicose do sangue, o corpo diabético, quando não pode depender do efeito da insulina para mover esse metabólito através da **barreira hematoencefálica**, acaba tendo que recorrer a outros compostos para nutrir o encéfalo.
 
-A alternativa mais óbvia são os lipídeos, especialmente os ácidos graxos armazenados no tecido subcutâneo. Porém, eles, por si só, também não são capazes de atravessar a barreira entre os capilares e o encéfalo.
+A alternativa mais óbvia são os lipídeos, especialmente os **ácidos graxos** armazenados no tecido subcutâneo. Porém, eles, por si só, também não são capazes de atravessar a barreira entre os capilares e o encéfalo.
 
-Para isso, eles devem ser convertidos antes em **corpos cetônicos** que são pequenos ácidos orgânicos que podem ser usados diretamente pelo sistema nervoso em períodos de crise.
+Para isso, eles devem ser convertidos antes em **corpos cetônicos**, que são pequenos ácidos orgânicos que podem ser usados diretamente pelo sistema nervoso em períodos de crise.
 
-Entretanto, o excesso desses metabólitos no sangue causa uma condição denominada de **alfacetoacidose diabética**, na qual o pH sanguíneo fica ácido demais 🅟 e o corpo em completa letargia pela insuficiência energética.
+Entretanto, o excesso desses metabólitos no sangue causa uma condição denominada de **alfacetoacidose diabética**, na qual o pH sanguíneo fica ácido demais 🅟 e o corpo entra em completa letargia pela insuficiência energética.
 
-É inclusive a partir da investigação de crises como essas que muitos pacientes (especialmente os portadores de diabetes mellitus tipo 1) descobrem que são diabéticos em primeiro lugar.
+É inclusive a partir da investigação de crises como essas que muitos pacientes (especialmente os portadores de diabetes mellitus **tipo 1**) têm a oportunidade de serem diagnosticados de sua condição.
 
 ### Os diferentes transportadores de glicose do organismo 
 
@@ -513,15 +600,15 @@ A entrada e saída de glicose nas células é mediada por uma família de prote�
 
 Cada variação é responsável pelo controle metabólico de uma estrutura diferente:
 
-- O **GLUT-1** é responsável pelo tecido adiposo
+- O **GLUT-1** é expresso em muitos tecidos do corpo humano, incluindo células do sangue, células endoteliais, células da barreira hematoencefálica, células do fígado, músculo e **adipócitos**. Em geral, é encontrado em tecidos que requerem um fluxo **constante** de glicose, independentemente da taxa metabólica.
 
-> **MACETE:** GLUT-1 --> 1 --> primeira letra --> A --> adiposo
+- O **GLUT-2** é encontrado principalmente no **fígado**, **pâncreas** e **intestino**. É responsável por permitir a entrada de glicose nessas células para **regulação** dos níveis sanguíneos de glicose, bem como na absorção desse carboidrato pelos enterócitos no intestino. Portanto, é importante que essa variação seja capaz de atuar de forma **independente da insulina**, para evitar que esses órgãos colapsem no momento em que ele são mais requeridos, isto é, durante disfunções do metabolismo da glicose
 
-- O **GLUT-2** está presente no fígado e _não_ depende da insulina 🅟 (ou seja, o fígado apresenta independência metabólica da regulação da insulina no organismo). Além disso, é esse o transportador envolvido na absorção de glicose e galactose no intestino (_ver “Absorção de carboidratos”_).
+- O **GLUT-3** é encontrado em células que requerem altas taxas de consumo de glicose, como o cérebro, retina e placenta. É o principal transportador de glicose da barreira **hematoencefálica**, permitindo que a glicose atravesse a barreira e forneça energia para o cérebro.
 
-- O **GLUT-4** é o principal transportador envolvido na fisiologia da insulina e está presente sobretudo no tecido muscular.
+- O **GLUT-4** é encontrado principalmente em tecidos **musculares** e adiposos e é responsável pela captação de glicose em **resposta à insulina**. A expressão do GLUT-4 é regulada por fatores como exercício físico, dieta e insulinemia.
 
-- Por fim, o **GLUT-5** tem papel importante na absorção da frutose no intestino (_ver “Absorção de carboidratos”)_.
+- Por fim, o **GLUT-5** tem papel importante na absorção da **frutose** no intestino (_ver “Absorção de carboidratos”)_.
 
 > **CAIU EM PROVA!**
 > 
@@ -537,13 +624,21 @@ Cada variação é responsável pelo controle metabólico de uma estrutura difer
 >
 > E) O armazenamento de triglicerídeos no tecido adiposo está aumentado.
 >
-> GABARITO: 46 - (3 x 14)
-> 
-> ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
+> RESOLUÇÃO:
+>
+> A) Incorreta. As células musculares contém o GLUT-4, que é dependente de insulina.
+>
+> B) Incorreta. No fígado predomina o GLUT-2, que é o canal próprio de estruturas críticas para a regulação da glicemia (pâncreas, intestino, etc.) e que, portanto, age de forma independente à insulina.
+>
+> C) Incorreta. Pelo contrário, na diabetes, com a redução da entrada da glicose extracelular, as células têm que recorrer a meios de gerar carboidratos dentro do próprio citoplasma, como através da gliconeogênese e da glicogenólise (e não pela síntese de glicogênio, como a alternativa sugere).
+>
+> D) Correta. Nos músculos, predomina o GLUT-4, que está totalmente à mercê da insulina. Dessa forma, quando esses canais não são recrutados à membrana (pela perda do efeito fisiológico da insulina), o músculo tem que recorrer à quebra de suas próprias proteínas para gerar substrato para a gliconeogênese.
+>
+> E) Incorreta. Todos os mecanismos que envolvem a estocagem de glicose de alguma maneira (glicogênese ou lipogênese) encontram-se reduzidos na diabetes, pois é precisamente a insulina que promove essas vias e ela torna-se incapacitada na diabetes.
 
 ### O efeito do estresse na glicemia 
 
-O estresse biológico pode ser de dois tipos: crônico ou temporário. O primeiro é regido sobretudo pelo cortisol, enquanto que o segundo, pela adrenalina. Ambos influenciam a glicemia de forma positiva.
+O estresse biológico pode ser de dois tipos: **crônico** ou **temporário**. O primeiro é regido sobretudo pelo **cortisol**, enquanto que, o segundo, pela **adrenalina**. Ambos intensificam os níveis de glicose no sangue.
 
 Isso ocorre devido à interpretação primal do cérebro de que o estresse é sempre uma situação de “luta ou fuga”. Devido a isso, ele despacha uma série de medidas visando a maximizar os recursos corporais para a atividade física, como dilatar as pupilas, mover o volume sanguíneo para mais próximo dos músculos e, por fim, transformar as reservas de glicogênio do corpo em açúcar de forma a garantir energia para uma reação rápida à “ameaça”.
 
@@ -594,7 +689,7 @@ Essa atuação dos osteoblastos é mediada por uma outra substância, denominada
 
 Outros efeitos secundários do paratormônio são: o aumento da reabsorção de cálcio nos rins (diminuição da excreção) 🅟 e a ativação da vitamina D 🅟 nesse mesmo órgão, o que, por sua vez, aumenta a absorção intestinal 🅟, contribuindo para a elevação do cálcio sérico.
 
-Já a calcitonina tem o efeito contrário, isto é, inibe a absorção do cálcio da matriz óssea, aumentando sua densidade 🅟. Isso se dá pelo seu efeito direto sobre os osteoclastos, reduzindo a atividade dessas células 🅟
+Já a calcitonina tem o efeito contrário, isto é, inibe a absorção do cálcio da matriz óssea, aumentando sua densidade 🅟 Isso se dá pelo seu efeito direto sobre os osteoclastos, reduzindo a atividade dessas células 🅟
 
 > **MACETE:**
 >
@@ -629,7 +724,7 @@ Já a calcitonina tem o efeito contrário, isto é, inibe a absorção do cálci
 >
 > A) Incorreta. As células _principais_ da paratireóide são as responsáveis pela secreção do paratormônio. 
 >
-> B) Correta. Os níveis circulantes de vitamina D, de fato, se encontram reduzidos.
+> B) Correta. Quem promove a ativação da vitamina D é o PTH. Se ele está reduzido, então o calciferol também está.
 > 
 > C) Incorreta. A atividade dos osteoclastos presentes no tecido ósseo da paciente em questão está reduzida devido aos baixos níveis do paratormônio (que é responsável por aumentar a quantidade dessas células).
 >
@@ -667,9 +762,17 @@ Já a calcitonina tem o efeito contrário, isto é, inibe a absorção do cálci
 >
 > DICA: A osteoporose é caracterizada pelo aumento da atividade dos osteoclastos.
 >
-> GABARITO: 56 - (4 x 13)
+> RESOLUÇÃO:
 >
-> ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
+> A) Incorreta. A secreção de paratormônio está elevada nas células _principais_.
+>
+> B) Incorreta. A taxa de liberação do PTH e da calcitonina é dependente somente do cálcio sanguíneo, e não da densidade da matrix óssea. Quando o cálcio sérico está baixo, o corpo vai liberar mais PTH de forma compensatória, mesmo que isso signifique agravar a desmineralização óssea.
+>
+> C) Incorreta. O principal inibidor da calcitonina é o PTH. Se ele está aumentado, então a calcitonina está baixa.
+>
+> D) Correta. Mesma lógica da alternativa B.
+>
+> E) Incorreta. O 1,25-HCF é a forma ativada da vitamina D e os exames mostram que há pouca vitamina D no sangue da paciete.
 
 ### A vitamina D
 
@@ -677,7 +780,9 @@ Outro hormônio importante para o metabolismo do cálcio é o **1,25-di-hidroxic
 
 Seu papel é aumentar a absorção do cálcio a nível intestinal e promover a reabsorção renal desse íon através do estímulo à transcrição de certas proteínas de membrana 🅟 (como bombas ATPase de cálcio e receptores “vanilóides”).
 
-Esses receptores vanilóides são as mesmas proteínas responsáveis por induzir a difusão de íons cálcio e sódio para dentro dos neurônios quando excitados por calor, pH, estresse mecânico etc. Porém, há dois tipos específicos de proteína vanilóide (tipos 5 e 6 respectivamente) que participam desse controle fisiológico do cálcio mediado pela vitamina D nos rins e no intestino.
+Esses receptores vanilóides são as mesmas proteínas responsáveis por induzir a difusão de íons cálcio e sódio para dentro dos neurônios quando excitados por calor, pH, estresse mecânico etc. 
+
+Porém, há dois tipos específicos de proteína vanilóide (tipos 5 e 6 respectivamente) que participam mais fortemente desse controle fisiológico do cálcio mediado pela vitamina D nos rins e no intestino.
 
 > **CURIOSIDADE:** O nome “vanilóide” deriva da vanilina, o composto que dá sabor à baunilha e que é da mesma família da capsaicina, a molécula usada para identificar esses receptores.
 
@@ -689,9 +794,11 @@ Isso ocorre devido ao papel do cálcio no controle do **limiar elétrico** que u
 
 Mais precisamente, o cálcio controla os **canais de potássio** da membrana dos neurônios, gerenciando o quanto de potássio (que é um íon, ou seja, tem _carga_) que é bombeado para fora da célula.
 
-Desse modo, quando o cálcio está ausente, a membrana bombeia pouco potássio para fora e, desse modo, a diferença de cargas entre o lado interno e externo da membrana é pequena (limiar reduzido). Por esse motivo, estímulos pequenos são capazes de causar disparos indevidos e isso faz com que os neurônios estejam o tempo todo excitados (como na convulsão e na contração muscular).
+Portanto, quando o cálcio está ausente, a membrana bombeia pouco potássio para fora e, desse modo, a diferença de cargas entre o lado interno e externo da membrana é pequena (limiar reduzido). Por esse motivo, estímulos pequenos tornam-se capazes de gerar disparos indevidos e isso faz com que os neurônios estejam o tempo todo excitados (como na convulsão e na contração muscular).
 
 ### A TIREÓIDE 
+
+![anatomia-tireoide-ganong](anatomia-tireoide-ganong.jpg)
 
 ### Os hormônios tireoideanos e seus efeitos
 
@@ -725,29 +832,35 @@ O T3 e o T4 são produzidos no interior do citoplasma 🅟 das células folicula
 
 Após a absorção do iodo sérico, ele é liberado dentro do folículo tireoideano por uma canal de membrana chamado **pedrina**.
 
-É a junção desse iodo folicular com os resíduos de tirosina 🅟 de uma proteína chamada **tireoglobulina** (sintetizada pelo epitélio da tireóide e igualmente secretada no folículo), que gera o **colóide tireoideano**.
+É a junção desse iodo folicular com os resíduos de tirosina 🅟 de uma proteína denominada **tireoglobulina** (sintetizada pelo epitélio da tireóide e igualmente secretada no folículo), que gera o **colóide tireoideano** num processo chamado **iodinação**
 
-É como colóide que os hormônios tireoideanos ficam armazenados até que haja necessidade fisiológica de sua secreção. Quando esse momento chega, o epitélio reabsorve o colóide e o quebra em T3, T4 e em tireoglobulina ligada a dois resíduos mono- e duplamente ionizados (mono- e diiodotirosina, respectivamente).
+É como colóide que os precursores dos hormônios tireoideanos ficam armazenados até que haja necessidade fisiológica de sua secreção. Quando esse momento chega, o epitélio reabsorve o colóide por endocitose (por isso a presença de pseudópodos nessas células) e desconjulga os resíduos iodados de tirosina (monoiodotirosina - MIT - e diiodotirosina - DIT) para, em seguida, combiná-los e formar o T3 e o T4 de fato num processo conhecido como **iodação** 🅟 Para formar a tiroxina (T4), duas moléculas de DIT se combinam, enquanto que, para a triiodotironina (T3), uma molécula de DIT e uma de MIT se unem.
 
 > **CAIU EM PROVA!**
 > 
 > “[...] Assinale a alternativa CORRETA:”
 >
-> A) 
+> A) A captação de iodo é um passo imprescindível para a formação dos hormônios tireoideanos, já que é necessária a conjugação deste elemento com a tireoglobulina no citoplasma das células foliculares.
 >
-> B) 
+> B) As reações de iodinação, que ocorrem para promover a associação do iodo às moléculas de tirosina, levam à formação de monoiodotirosina e diiodotirosina, as quais serão conjugadas para formarem os hormônios tireoideanos.
 > 
-> C) 
+> C) A degradação da tireoglobulina, ocorrida no coloide, é o último passo para a liberação e secreção dos hormônios tireoideanos.
 >
-> D) 
+> D) T3 e T4 são grandes estimuladores da secreção de TSH pela hipófise.
 >
-> E) 
+> E) Nenhuma das anteriores.
 >
-> GABARITO: **EXPRESSÃO**
-> 
-> ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
+> RESOLUÇÃO:
+>
+> A) Incorreta. A conjugação ocorre no _folículo_.
+>
+> B) Correta. A iodinação é o processo que ocorre no citoplasma após a reabsorção do colóide tireoideano. Nele o MIT e o DIT são desconjugados da tireoglobulina e são recombinados para formar os hormônios de fato.
+>
+> C) Incorreta. A degradação da tireoglobulina ocorre no citoplasma após a extração do MIT e do DIT (quando essa proteína já não tem mais utilidade fisiológica).
+>
+> D) Incorreto. O T3 e o T4 exercem feedback negativo sobre o TSH.
 
-### Hipertireoidismo
+### O hipertireoidismo
 
 #### TRÍADE DIAGNÓSTICA 
 
@@ -761,9 +874,13 @@ Os três sintomas mais aparentes do hipertireoidismo são:
 
 No hipertireoidismo primário (ou seja, que não seja causado por outra condição) o TSH da adenohipófise encontra-se suprimido, usualmente pela ativação exagerada da tireóide, o que leva ao aumento de T3 e T4 no sangue e inibição do TSH por feedback negativo 🅟 
 
+A causa mais comum dessa ativação da tireóide é a **doença de Basedown-Graves**, na qual autoanticorpos ligam-se nos receptores de TSH da tireóide e a estimulam indevidamente.
+
+A manifestação mais aparente dessa doença é o chamado **“rosto basedowniano”**, caracterizado por olhos proeminentes e face magra e tensa 🅟
+
 > **CAIU EM PROVA!**
 > 
-> LRS, 32 anos, sexo feminina, do lar, casada, 1 filho, nativa e procedente de Florianópolis, chega a emergência do HU com palpitações. [...] Sua face era tipicamente basedownian, têmporas escavadas, gordura submandibular, exoftalmia, bócio. Exames Laboratoriais: TSH: 0.04 mU/L (normal 0.3 a 4 mU/L) T4 livre: 3.6 ng/dL (0.7 a 1.8 ng/dl)
+> “LRS, 32 anos, sexo feminina, do lar, casada, 1 filho, nativa e procedente de Florianópolis, chega a emergência do HU com palpitações. [...] Sua face era tipicamente basedownian, têmporas escavadas, gordura submandibular, exoftalmia, bócio. Exames Laboratoriais: TSH: 0.04 mU/L (normal 0.3 a 4 mU/L) T4 livre: 3.6 ng/dL (0.7 a 1.8 ng/dl)”
 > 
 > Conforme os dados apresentados no caso descrito acima, qual a causa dos baixos níveis circulantes de TSH?
 > 
@@ -777,15 +894,10 @@ No hipertireoidismo primário (ou seja, que não seja causado por outra condiç�
 >
 > E) Feedback negativo de T4 sobre a hipófise. 
 >
-> DICA: Pesquise por “Basedown-Graves” neste resumo.
 >
 > Gabarito: 29 - (6 x 4)
 > 
-> ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
-
-A causa mais comum dessa ativação da tireóide é a **doença de Basedown-Graves**, na qual autoanticorpos ligam-se nos receptores de TSH da tireóide e a estimulam indevidamente.
-
-A manifestação mais aparente dessa doença é o chamado **“rosto basedowniano”**, caracterizado por olhos proeminentes e face magra e tensa 🅟
+> ➊➋➌➍➎ = 🅐🅑🅒🅓🅔 
 
 A segunda etiologia mais comum para o hipertireoidismo é o **bócio multinodular tóxico**, que consiste no aumento da produção de hormônios tireoideanos 🅟 devido ao aparecimento de vários focos de proliferação de células foliculares (nódulos) nessa glândula.
 
@@ -821,11 +933,11 @@ Como uma das consequências do aumento dos níveis de hormônios tireoideanos, h
 
 No hipotireoidismo, a tireóide não consegue produzir hormônios na demanda suficiente que o corpo precisa. Em resposta a isso, o TSH usualmente encontra-se aumentado, de forma a tentar estimular os folículos a compensar a queda na produção.
 
-Quando esse aumento reacionário do TSH é suficiente para renormalizar os níveis de hormônios tireoideanos (ou seja, quando, no exame laboratorial, o T4 está normal e o TSH está aumentado), nós chamamos essa condição de **hipotireoidismo subclínico** 🅟 Pacientes nessa situação costumam não apresentar nenhum sintoma ou manifestação clínica.
+Quando esse aumento reacionário do TSH é suficiente para renormalizar os níveis de hormônios tireoideanos (ou seja, quando, no exame laboratorial, o T4 está normal e o TSH está aumentado), essa condição é chamada de **hipotireoidismo subclínico** 🅟 Pacientes nessa situação costumam não apresentar nenhum sintoma ou manifestação clínica.
 
-Já quando tanto o TSH quanto o T3/T4 apresentam-se fora dos seus níveis de referência, o hipotireoidismo é dito **clínico**. Tais pacientes apresentam os sintomas clássicos de função tireoideana reduzida, como cansaço generalizado, ganho de peso e sensibilidade ao frio.
+Já quando tanto o TSH quanto o T3/T4 apresentam-se fora dos seus níveis de referência, o hipotireoidismo é dito **clínico**. Tais pacientes apresentam os sintomas clássicos de função tireoideana reduzida, como cansaço generalizado, ganho de peso e sensibilidade ao frio 🅟
 
-A causa mais comum para o hipotireoidismo clínico é a **tireoidite de Hashimoto**, na qual o sistema imune ataca a tireóide e causa a inflamação da glândula. Os achados mais comuns que indicam esse diagnóstico é o aumento dos **anticorpos contra a enzima antiperoxidase tireoideana** e a presença de **anticorpos contra a tireoglobulina**.
+A causa mais comum para o hipotireoidismo clínico é a **tireoidite de Hashimoto**, na qual o sistema imune ataca a tireóide e causa a inflamação da glândula. Os achados mais comuns que indicam esse diagnóstico é o aumento dos **anticorpos contra a enzima antiperoxidase tireoideana** e a presença de **anticorpos contra a tireoglobulina** 🅟
 
 ### A HIPÓFISE 
 
@@ -1435,6 +1547,8 @@ Além disso, aderido à **junção ileocecal** e ao **apêndice vermiforme**, h�
 > II) Falsa. O processo uncinado fica inferior à cabeça:
 >
 > ![processo-ulcinado-pancreas-grays](processo-ulcinado-pancreas-grays.jpg)
+>
+> MACETE: UNcinado --> UNder
 >
 > III) Verdadeira. A impressão gástrica fica no lobo esquerdo, que é mais medial, enquanto que a área nua fica no lobo direito, que é mais lateral:
 >
