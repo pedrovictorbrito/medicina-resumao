@@ -54,7 +54,7 @@
 - [O sistema digestivo](#o-sistema-digestivo)
   * [A REGIÃO ORAL](#a-região-oral)
   * [A língua ](#a-língua)
-  * [O dente](#o-dente)
+  * [Os dentes](#os-dentes)
   * [O ESÔFAGO](#o-esôfago)
   * [O ESTÔMAGO ](#o-estômago)
   * [O INTESTINO DELGADO ](#o-intestino-delgado)
@@ -67,7 +67,7 @@
   * [Vascularização das vísceras abdominais](#vascularização-das-vísceras-abdominais)
   * [Vascularização do fígado ](#vascularização-do-fígado)
   * [HISTOLOGIA DO SISTEMA GASTROINTESTINAL](#histologia-do-sistema-gastrointestinal)
-  * [Os epitélio predominantes do trato digestivo](#os-epitélio-predominantes-do-trato-digestivo)
+  * [Os epitélios predominantes do trato digestivo](#os-epitélios-predominantes-do-trato-digestivo)
     + [EPITÉLIO PAVIMENTOSO ESTRATIFICADO NÃO-QUERATINIZADO ](#epitélio-pavimentoso-estratificado-não-queratinizado)
   * [EPITÉLIO SIMPLES COLUNAR NÃO-CILIADO](#epitélio-simples-colunar-não-ciliado)
   * [EPITÉLIO CÚBICO ESTRATIFICADO ](#epitélio-cúbico-estratificado)
@@ -940,11 +940,9 @@ A causa mais comum para o hipotireoidismo clínico é a **tireoidite de Hashimot
 
 ### A HIPÓFISE 
 
-A hipófise é uma região na parte anterior do diencéfalo que tem papel central na homeostase e controle hormonal de todo o corpo.
+A hipófise é uma região na parte anterior do diencéfalo que tem papel central na homeostase e controle hormonal de todo o corpo. Ela é composta de duas estruturas: a adeno- e a neurohipófise. 
 
-Ela é dividida ao meio pela **eminência medial** 🅟, formando duas partes: a adeno- e a neurohipófise. 
-
-Essa primeira parte (mais anterior 🅟) é atravessada por um conjunto de vasos denominado **sistema porta hipotalâmico hipofisário**, que é por onde passam hormônios “liberadores” 🅟 advindos do hipotálamo e que têm papel de controlar as inúmeras populações celulares da adenohipófise.
+Essa primeira parte (mais anterior 🅟) é atravessada por um conjunto de vasos denominado **sistema porta hipotalâmico hipofisário**, no qual passa hormônios “liberadores” 🅟 advindos do hipotálamo e que têm papel de controlar as inúmeras populações celulares da adenohipófise.
 
 Já a parte neural (mais posterior 🅟) é controlada diretamente por estímulos neuronais e abriga células que secretam hormônios em resposta a estímulos aferentes externos ou do próprio corpo.
 
@@ -969,8 +967,6 @@ Todos os três tipos têm a característica de serem inibidos pela **somatostati
 > Somatostatina -|-> GH - prolactina - TSH
 
 Os somatotrofos e os tireotrofos, porém, também são estimulados, cada um, por hormônios tróficos específicos: **GHRH e TRH** respectivamente (-RH = _“releasing hormone”_; “hormônio liberador”).
-
-Note que os lactotrofos não possuem hormônio estimulante específico visto que os principais estímulos à liberação da prolactina são percepções neurossensoriais, como a sucção do bebê nos seios ou o choro da criança.
 
 A relação entre o TRH e os tireotrofos é relevante, pois um dos mecanismos por trás da queda dos níveis de TSH no hipertireoidismo é a inibição da liberação de TRH no hipotálamo por feedback negativo devido ao excesso de T3/T4 no sangue 🅟
 
@@ -1030,7 +1026,7 @@ Por fim, quanto aos gonadotropos, esses são ativados pelo hormônio estimulador
 
 Esse é o hormônio responsável por controlar o ciclo menstrual da mulher por intermédio de dois hormônios simultaneamente: o **FSH** e o **LH**.
 
-Apesar do GnRH ser uma única molécula, ele é capaz de controlar os níveis de cada hormônio separadamente por meio de um sistema de “pulsação”, no qual o hormônio é liberado em picos e o seu efeito depende do ritmo desses picos: frequências mais lentas favorecem a liberação de FSH e frequências mais rápidas levam à secreção de LH.
+Apesar do GnRH ser uma única molécula, ele é capaz de controlar os níveis de cada gonadotrofina separadamente por meio de um sistema de “pulsação”, no qual o GnTH é liberado em picos e o seu efeito depende do ritmo desses pulsos: frequências mais lentas favorecem a liberação de FSH e frequências mais rápidas levam à secreção de LH.
 
 ### A neurohipófise
 
@@ -1038,9 +1034,9 @@ A parte posterior da hipófise recebe tratos diretamente do hipotálamo e é res
 
 A **vasopressina**, como o próprio nome indica, tem a capacidade de aumentar a pressão arterial sistêmica. Para alcançar esse efeito, ela promove o aumento da reabsorção renal de água pelo recrutamento de canais de membrana (**aquaporina**). Isso leva ao crescimento do volume sanguíneo e consequente intensificação da pressão vascular.
 
-Devido à sua secreção pela parte neural da hipófise, traumas do sistema nervoso central podem ocasionar problemas na sua regulação e desencadear uma condição de diurese excessiva denominada de **diabetes insipidus** (_ver “Manifestações clínicas da diabetes”_).
+Devido à sua secreção pela parte neural da hipófise, traumas do sistema nervoso central podem ocasionar problemas na sua regulação e desencadear uma condição de diurese excessiva denominada de **diabetes insipidus** (para a definição de diabetes, _ver “Manifestações clínicas da diabetes”_).
 
-Já a **ocitocina**, essa tem papel fundamental na fisiologia reprodutora da mulher, visto que esse é o hormônio que promove as contrações uterinas e a motilidade da tuba uterina (essencial para a ovulação) 🅟
+Já a **ocitocina**, essa tem papel fundamental na fisiologia reprodutora da mulher, visto que esse é o hormônio que promove as contrações do parto e a motilidade da tuba uterina (essencial para a ovulação) 🅟
 
 ### As suprarrenais
 
@@ -1066,7 +1062,7 @@ No córtex podemos identificar:
 
 > **MACETE:** Reticular --> testicular
 
-Já a medula adrenal é uma simples estensão do sistema nervoso simpático e tem função de produzir a noradrenalina e a epinefrina.
+Já a **medula adrenal** é uma simples estensão do sistema nervoso simpático e tem função de produzir a **noradrenalina** e a **epinefrina**.
 
 Por fim, é importante perceber que, pela cápsula fibrosa, passa a **artéria capsular**, e, pela medula, passa a **veia medular**.
 
@@ -1082,7 +1078,7 @@ Dentre esses hormônios, destacam-se:
 
 - O **peptídeo pancreático**, produzido pelas células gama, que tem função de inibir a função exócrina do pâncreas.
 
-- A **grelina**, produzida pelas células epslon, que dá fome, estimula as secreções gástricas e inibe a insulina.
+- A **grelina**, produzida pelas células epslon, que propicia a sensação de fome, estimula as secreções gástricas e inibe a insulina.
 
 > **MACETE:** 
 >
@@ -1098,15 +1094,13 @@ O folículo consiste, basicamente, de um ovócito (que está presente no corpo f
 
 Porém, o processo de formação do folículo, desde o óvulo isolado até o desenvolvimento de todas as camadas hormonais leva certo tempo, e cada estágio de formação dessas camadas influencia o ciclo menstrual da mulher.
 
-No início, o óvulo é envolto por somente 1 camada de células e recebe o nome de **folículo primário**. A formação dessa estrutura inicial é lenta e demora vários meses. Além disso, a massa celular resultante é pequena demais para sofrer influência dos homônios gonadotróficos. Portanto, sua coordenação hormonal limita-se à influência parácrina entre o ovócito e a camada de células foliculares.
+![foliculo-ovariano-ganong](foliculo-ovariano-ganong.jpg) 
 
-No entanto, com a gradual proliferação das células foliculares, essa estrutura começa a desenvolver uma leve sensibilidade aos hormônios pituitários, mas não o suficiente para tornar-se suscetível às flutuações hormonais do ciclo menstrual.
+No início, o óvulo é envolto por somente 1 camada de células e recebe o nome de **folículo primário** (ou “primordial”). A formação dessa estrutura inicial é lenta e demora vários meses. Além disso, a massa celular resultante é pequena demais para sofrer influência dos homônios gonadotróficos. Portanto, sua coordenação hormonal limita-se à influência parácrina entre o ovócito e a camada de células foliculares.
 
-Nesse meio tempo, ela também forma uma pequena cavidade preenchida de fluido. A partir daí, ela passa a ser chamada de “folículo secundário”.
+No entanto, com a gradual proliferação das células foliculares, essa estrutura começa a desenvolver uma leve sensibilidade aos hormônios pituitários, mas não o suficiente para tornar-se suscetível às flutuações hormonais do ciclo menstrual. Nesse meio tempo, ela também forma uma pequena cavidade preenchida de fluido, o **antro**. A partir daí, ela passa a ser chamada de **folículo secundário**.
 
-Com o decorrer da proliferação, as células foliculares eventualmente tornam-se numerosas o suficiente para ficarem finalmente sensíveis ao FSH.
-
-Com o aparecimento dessa sensibilidade, o folículo secundário fica finalmente à mercê do ciclo menstrual. Aproximadamente 15 a 20 folículos chegam nesse estágio simultaneamente a cada ciclo.
+Com o decorrer da proliferação, as células foliculares eventualmente tornam-se numerosas o suficiente para ficarem finalmente sensíveis ao FSH. E é justamente com o aparecimento dessa sensibilidade que folículo secundário fica finalmente à mercê do ciclo menstrual. Aproximadamente 15 a 20 folículos chegam nesse estágio simultaneamente a cada ciclo.
 
 Porém, apenas 1 desses folículos será o “dominante” e protagonizará os estágios de um dado ciclo. Esse terá um crescimento acentuado em relação aos outros e irá inibir o desenvolvimento dos seus semelhantes por influência hormonal local.
 
@@ -1116,15 +1110,15 @@ Esse tecido é sensitivo ao **LH** e é responsável por dar o pontapé para a s
 
 ![foliculo-ovariano-hormonios-carlson](foliculo-ovariano-hormonios-carlson.jpg)
 
-Isso funciona da seguinte maneira: o LH interage com as células da téca interna e promove a conversão do colesterol em **andrógenos**
+Funciona da seguinte maneira: o LH interage com as células da téca interna e promove a conversão do colesterol em **andrógenos**
 
 Os andrógenos atravessam a membrana basal por difusão e, dentro das **células glanulosas**, do outro lado da membrana, eles são convertidos em estrógeno pela enzima **aromatase**, que é dependente da ação do FSH.
 
 Quando esse estrógeno fica pronto, ele precisa difundir novamente pela **membrana basal** para chegar aos capilares nos arredores do folículo ovariano.
 
-O pico de LH, além do aumento da produção de estrógeno, também causa a liberação do ovócito de dentro do folículo dominante (**ovulação**) e consequente divisão meiótica dessa mesma estrutura.
+O pico de LH, além do aumento da produção de estrógeno, também causa a liberação do ovócito de dentro do folículo dominante (**ovulação**) e a consequente divisão meiótica dessa mesma estrutura.
 
-Mas é somente após a ovulação que o LH passa a exercer o papel que realmente faz jus ao seu nome. Isto é, promove a transformação do folículo secundário em **corpo lúteo**.
+Mas é somente após a ovulação que o LH passa a exercer o papel que realmente faz jus ao seu nome; isto é, promover a transformação do folículo secundário em **corpo lúteo** e a manutenção do mesmo.
 
 Essa nova estrutura produz quantidades ainda maiores de estrógeno e se associa mais firmemente aos capilares locais do ovário.
 
@@ -1218,9 +1212,9 @@ Esses fenômenos ocorrem de forma controlada e de maneira minutamente regulada a
 
 ### A REGIÃO ORAL
 
-A região oral compreende a cavidade oral, os dentes, a gengiva, a língua, o palato e a região das tonsilas paulatinas. 
+A região oral compreende a cavidade oral, os dentes, a gengiva, a língua, o palato e a região das tonsilas palatinas. 
 
-A cavidade oral é o local onde o alimento é ingerido e preparado para a digestão no estômago e no intestino delgado. Nela, existe um conjunto de tecidos linfoides composto pela **adenóide** e as **amídalas tubárias palatinas e lingual**, que, juntas, recebem o nome de **Anel Linfático de Waldeyer** 🅟
+A cavidade oral é o local onde o alimento é ingerido e preparado para a digestão no estômago e no intestino delgado. Nela, existe um conjunto de tecidos linfoides composto pela **adenóide** e as **amídalas tubárias, palatinas e lingual**, que, juntas, recebem o nome de **Anel Linfático de Waldeyer** 🅟
 
 ![anel-waldeyer](anel-waldeyer.jpg)
 
@@ -1230,13 +1224,13 @@ O língua é um órgão muscular extremamente complexo. Suas fibras, microscopic
 
 Sua inervação é dada sobretudo por três nervos: o **hipoglosso** (responsável pela parte motora 🅟), o **ramo mandibular do trigêmeo** (que fica com a maior parte da função sensitiva) e o **glossofaríngeo** (responsável em menor parte pela sensibilidade).
 
-> **MACETE:** Imaginar um dedo passando Hipoglós na boca em movimentos circulares.
+> **MACETE:** Imagem mental de um dedo passando Hipoglós na boca em movimentos circulares --> hipoglosso --> motor
 
-Porém, o movimento da língua pode ser afetado por um **frênulo** curto demais 🅟, o que pode demandar uma frenuloctomia.
+Porém, o movimento da língua, em algumas pessoas, é limitado por um **frênulo** curto demais 🅟, o que pode demandar uma frenuloctomia de correção.
 
 ![frenulo-lingual-grays](frenulo-lingual-grays.jpg)
 
-### O dente
+### Os dentes
 
 Nós humanos possuímos uma variedade de dentes na nossa cavidade oral. Eles podem ser divididos em 4 grupos: **incisivos**, **caninos**, **pré-molares** e **molares**.
 
@@ -1260,9 +1254,11 @@ O esmalte é translúcido e pode variar em cor de branco a amarelado, dependendo
 
 No entanto, o esmalte _não_ é capaz de se regenerar, e pode ser danificado por cáries, traumatismo ou desgaste excessivo. Portanto, é importante cuidar bem dos dentes e manter uma boa higiene bucal para proteger o esmalte e prevenir problemas dentários.
 
-Já a **dentina** é um tecido mineralizado presente nos dentes, que fica abaixo do esmalte dentário e envolve a polpa dentária 🅟
+Já a **dentina** é um tecido mineralizado presente nos dentes, que fica abaixo do esmalte dentário, envolvendo a polpa 🅟
 
 É a camada mais espessa do dente e fornece suporte estrutural e proteção para a polpa. A dentina é composta principalmente por minerais, como **hidroxiapatita**, e é permeada por uma rede de **túbulos** microscópicos que contêm prolongamentos de células chamadas **odontoblastos**, cuja função é regenerar esse tecido em caso de desgaste.
+
+![dentina-odontoblastos-ross](dentina-odontoblastos-ross.jpg)
 
 Esses túbulos permitem que os estímulos externos, como o calor, o frio e a pressão, sejam transmitidos até a polpa, que contém os nervos e vasos sanguíneos do dente. Além disso, a dentina pode se regenerar em resposta a danos ou cáries, produzindo uma nova camada de tecido para proteger a polpa e manter a integridade do dente.
 
@@ -1272,9 +1268,7 @@ A polpa dentária é responsável por fornecer nutrientes e oxigênio para as c�
 
 O **cimento** dentário, também conhecido como cemento ou cementum, é um tecido mineralizado que cobre a raiz dos dentes. Ele é produzido pelas células especializadas do **ligamento periodontal**, que fica entre o osso alveolar e a raiz do dente.
 
-O cemento dentário é importante porque ajuda a ancorar as fibras do ligamento periodontal no dente e no osso, proporcionando estabilidade e resistência ao dente. Além disso, o cemento ajuda a proteger a raiz do dente contra danos e desgaste.
-
-Ele é composto principalmente de hidroxiapatita, o mesmo mineral encontrado no esmalte dental e no osso. No entanto, o cemento é menos duro do que o esmalte e o osso, e é mais suscetível a danos e desgaste.
+O cemento dentário é importante porque ajuda a ancorar as fibras do ligamento periodontal no dente e no osso, proporcionando estabilidade e resistência ao dente. Além disso, o cemento ajuda a proteger a raiz contra danos e desgaste.
 
 ### O ESÔFAGO
 
@@ -1302,7 +1296,7 @@ A primeira dessas estratégias ocorre ainda na **cárdia**, onde o bolo alimenta
 
 Agora protegido quimicamente do pH estomacal, o bolo alimentar atravessa o **óstio cardíaco** e mergulha no suco gástrico da região mais superior do estômago denominada **fundo gástrico**. Essa região do estômago possui pouquíssima motilidade, o que dá folga para que o material possa ser digerido tranquilamente por, em média, 60 minutos.
 
-Além do movimento reduzido, o estômago distende suas paredes para acomodar a quantidade de comida que chega. Isso leva à ativação de um mecanismo denominado de **reflexo vagovagal** (ou **gastrocólico** 🅟), no qual o nervo vago leva e trás estímulos do tronco encefálico e promove a secreção gástrica e o aumento do peristaltismo em regiões mais distais do trato (para liberar espaço para o novo bolo alimentar que está chegando) 🅟
+Além do movimento reduzido, o estômago distende suas paredes para acomodar a quantidade de comida que chega. Isso leva à ativação de um mecanismo denominado de **reflexo vagovagal** (ou **gastrocólico** 🅟), no qual o nervo vago transmite estímulos aferentes e eferentes do tronco encefálico que promovem a secreção gástrica e o aumento do peristaltismo em regiões mais distais do trato (para liberar espaço para o novo bolo alimentar que está chegando) 🅟
 
 É também no fundo onde se localiza uma estrutura neuromuscular denominada **nó sinoatrial gástrico**, responsável pelo **automatismo estomacal** na coordenação dos movimentos peristálticos 🅟
 
@@ -1320,9 +1314,9 @@ Tais camadas recobrem todo o estômago e podem ser divididas em três:
 
 - As **fibras oblíquas**, que encontram-se adjacentemente à mucosa gástrica.
 
-Essa diversidade de organização das fibras é o que confere ao estômago motilidade para mover o seu conteúdo em qualquer direção. Inclusive, é comum que parte do conteúdo gástrico, quando se aproxime do fim do estômago, seja empurrada novamente para o fundo gástrico por um movimento estomacal denominado **retropulsão**.
+Essa diversidade de organização das fibras é o que confere ao estômago motilidade para mover o seu conteúdo em qualquer direção. Inclusive, é comum que parte do conteúdo alimentar, quando se aproxime do fim do estômago, seja empurrada novamente para o fundo gástrico por um movimento estomacal denominado **retropulsão**.
 
-No entanto, a etapa concomitante à chegada do bolo no corpo gástrico é usualmente o início, de fato, da digestão mediada pelo **suco gástrico** e pela intensificação da motilidade do estômago 🅟
+No entanto, usualmente, a chegada do bolo no corpo estomacal é o gatilho para o início, de fato, da digestão mediada pelo **suco gástrico** e pela intensificação da motilidade do estômago 🅟
 
 > **CAIU EM PROVA!**
 >
@@ -1355,9 +1349,9 @@ A área oxitínica é a que contém, de fato, as **glândulas gástricas**, isto
 
 As que ficam mais externamente são as **células mucosas da superfície**, que existem não só para revestir a mucosa como também para secretar um muco alcalino apolar, cujo papel é de impedir o suco gástrico e as enzimas de agirem sobre a parede do próprio intestino 🅟
 
-Em seguida, há as **células mucosas do colo**, que têm a capacidade de diferenciar-se em qualquer um dos outros tipos celulares e, portanto, confere capacidade regenerativa para a glândula gástrica 🅟 Elas apresentam uma forma alongada característica 🅟, pois ficam comprimidas entre o epitélio do lúmen estomacal e o epitélio da foscícula gástrica em si.
+Em seguida, há as **células mucosas do colo**, que têm a capacidade de diferenciar-se em qualquer um dos outros tipos celulares e, portanto, confere capacidade regenerativa para a glândula gástrica 🅟 Elas apresentam uma forma alongada característica 🅟, pois ficam comprimidas entre o epitélio do lúmen estomacal e o epitélio da fosseta gástrica em si.
 
-São as células **parietais (ou “oxitínicas”)** as responsáveis por produzir esse suco. Para cumprir esse papel, elas apresentam canalículos 🅟 dentro do seu citoplasma que aumentam sua superfície de contato com a cavidade estomacal e são ricas em mitocôndrias, de modo a ter energia o suficiente para empurar uma quantidade exponencialmente maior de protóns contra o gradiente de concentração 🅟
+Já as **parietais (ou “oxitínicas”)** são as, de fato, responsáveis por produzir o suco gástrico. Para cumprir esse papel, elas apresentam canalículos 🅟 dentro do seu citoplasma que aumentam sua superfície de contato com a cavidade estomacal e são ricas em mitocôndrias, de modo a ter energia o suficiente para empurar uma quantidade exponencialmente maior de protóns contra o gradiente de concentração 🅟
 
 ![celulas-parietais-kierszenbaum-tres](celulas-parietais-kierszenbaum-tres.jpg)
 
@@ -1369,11 +1363,11 @@ São elas também que produzem o **fator intrínseco**, uma substância que liga
 >
 > “Oxíntico” --> “oxín-seco hídrico” --> “intrínseco clorídrico” --> “fator intrínseco” + “ácido clorídrico”
 
-Imediatamente abaixo das oxitínicas, há as **células principais (ou “zimogênicas”)**, cujo papel é de secretar duas enzimas: o **pepsinogênio** (que é ativado pelo pH em **pepsina**) e a **lipase gástrica** 🅟. Devido a essa intensa atividade de síntese de enzimas, essas células apresentam uma morfologia bem característica, com várias bolsas delgadas (que são o retículo endoplasmático, responsável pela tradução gênica) circundando o núcleo grande e arredondado.
+Imediatamente abaixo das oxitínicas, há as **células principais (ou “zimogênicas”)**, cujo papel é de secretar duas enzimas: o **pepsinogênio** (que é ativado pelo pH em **pepsina**) e a **lipase gástrica** 🅟 Devido a essa intensa atividade de síntese de enzimas, essas células apresentam uma morfologia bem característica, com várias bolsas delgadas (que são o retículo endoplasmático, responsável pela tradução gênica) circundando o núcleo grande e arredondado 🅟
 
 É a pepsina a principal enzima atuante no estômago. Seu papel, no entanto, não é ilimitado, e por vezes a digestão de peptídeos é finalizada no lúmen intestinal ou até mesmo no interior dos enterócitos 🅟
 
-E ainda abaixo dessas, também são encontradas as **células enteroendócrinas**, cujo principal subtipo são as **células G**. Tais estruturas têm o papel de secretar a **gastrina**, cuja função será explicada em breve 🅟
+E ainda inferiormente a essas, há as **células enteroendócrinas**, cujo principal subtipo são as **células G**. Tais estruturas têm o papel de secretar a **gastrina**, cuja função será explicada em breve 🅟
 
 Perceba que a ordem de organização das células na glândula gástrica têm uma razão funcional, visto que as células que têm fluxo de secreção maior (as parietais) ficam mais próximas da superfície, enquanto que aquelas que dependem diretamente da secreção dessas primeiras (isto é, as células principais que produzem o pepsinogênio dependente de pH) ficam imediatamente abaixo. Já aquelas que secretam diretamente na circulação ao invés do lúmen (as enteroendócrinas) podem ficar em qualquer posição, inclusive sobrepostas pelas células exócrinas 🅟
 
@@ -1399,9 +1393,9 @@ A produção do suco gástrico por essas glândulas é coordenada por um conjunt
 
 - Na **fase cefálica**, a mastigação e a deglutição estimulam o nervo vago que, por sua vez, promove a liberação de ácido clorídrico pelas células parietais.
 
-- Na **fase gástrica**, a chegada do bolo alimentar ao estômago leva à sua distensão e neutralização momentânea do pH ácido. Ambos os eventos levam à liberação de gastrina pelas células G que, em conjunto com a ação da histamina, ativam o sistema entérico e elevam a produção de suco gástrico.
+- Na **fase gástrica**, a chegada do bolo alimentar ao estômago leva à sua distensão e neutralização momentânea do pH ácido. Ambos os eventos levam à liberação de gastrina pelas células G que, em conjunto com a ação da **histamina**, ativam o sistema entérico e elevam a produção de suco gástrico.
 
-- Por fim, na **fase intestinal**, são as células endócrinas do duodeno que, ao receberem o **quimo** (bolo alimentar já parcialmente digerido pelo estômago), secretam gastrina que não só aumentam a secreção de suco gástrico como retardam o esvaziamento estomacal 🅟
+- Por fim, na **fase intestinal**, são as células endócrinas do duodeno que, ao receberem o **quimo** (bolo alimentar já parcialmente digerido pelo estômago), liberam gastrina, colecistoquinina e secretina que não só aumenta a secreção de suco gástrico como retarda o esvaziamento estomacal 🅟
 
 Além disso, há também uma série de mecanismos que evitam que o pH gástrico atinja níveis muito ácidos, o que seria deletério ao próprio estômago.
 
@@ -1409,11 +1403,9 @@ O primeiro deles é a liberação de somastatina pelo **canal pilórico** quando
 
 O segundo envolve a liberação do **peptídeo inibidor gástrico**, estimulado pela presença de ácidos graxos livres (por exemplo, da quebra da gordura alimentar pelas lipases gástricas).
 
-Por fim, a chegada do quimo ao intestino também tem um efeito inibitório para a secreção e motilidade gástrica devido à liberação de **colecistocinina** pelas células enteroendócrinas do duodeno.
+Por fim, a chegada do quimo ao intestino também tem um efeito inibitório para a secreção e motilidade gástrica devido à liberação de **colecistocinina** pelas células enteroendócrinas do duodeno 🅟
 
-E é precisamente com a passagem do quimo pelo piloro que finaliza-se o papel digestivo do intestino.
-
-Então, em resumo, o estômago é constituído de 4 regiões 🅟: a cárdia (onde o bolo é encharcado com muco), o fundo (no qual a parte mais lenta da digestão acontece), o corpo (onde ocorre a maior parte da contribuição do estômago) e a parte pilórica (onde é secretada a gastrina e por onde o alimento passa para o intestino).
+E é com a passagem do quimo pelo piloro que finaliza-se o papel digestivo do intestino.
 
 ### O INTESTINO DELGADO 
 
@@ -1425,23 +1417,23 @@ O intestino delgado é a porção principal da absorção gastrointestinal. É c
 >
 > Íleo --> I --> Inferno --> Inferior
 
-#### O duodeno
+### O duodeno
 
-Depois dos alimentos passarem por um processo mais intenso de digestão no estômago, eles seguem para a próxima porção do trato digestivo, o duodeno, que é o segmento inicial do intestino delgado, o qual faz uma curvatura em C ao redor da cabeça do pâncreas 🅟
+Depois dos alimentos passarem por um processo mais intenso de digestão no estômago, eles seguem para a próxima porção do trato digestivo, o duodeno (segmento inicial do intestino delgado que faz uma curvatura em C ao redor da cabeça do pâncreas 🅟)
 
-O controle dessa progressão é por dois mecanismos:
+O controle dessa progressão é dado por dois mecanismos:
 
-Primeiro, há a influência do **piloro**, um esfíncter que controla a entrada do bolo alimentar e do suco gástrico para a parte mais proximal do intestino, o **duodeno**. 
+- Primeiro, há a influência do **piloro**, um esfíncter que controla a entrada do bolo alimentar e do suco gástrico para a parte mais proximal do duodeno, o **bulbo**. Quando isso ocorre, receptores da mucosa intestinal respondem à acidez do quimo e desencadeiam dois mecanismos de proteção ao epitélio duodenal:
 
-Ao penetrar na porção mais proxinal do duodeno, ou “porção superior” (também chamada de **bulbo duodenal**), receptores da mucosa intestinal respondem à acidez da mistura estomacal e desencadeiam dois mecanismos de proteção à mucosa intestinal:
+	Inicialmente , há a liberação de uma secreção alcalina pelas **glândulas de Brunner** da submucosa duodenal 🅟, o que ajuda o intestino a defender-se do primeiro contato com o conteúdo gástrico. 
 
-Primeiro, há a liberação de uma secreção alcalina pelas **glândulas de Brunner** da submucosa duodenal 🅟, o que ajuda o intestino a defender-se do primeiro contato com o conteúdo gástrico. 
-
-Em seguida há a liberação de **secretina**, que tem o efeito duplo de estimular tanto a produção de secreções biliares e pancreáticas quanto a sua liberação no lúmen do duodeno. Dentre essas substâncias, há o **bicarbonato** (para neutralizar a acidez da mistura), a **bile** (produzida 🅟 pelo fígado e armazenada 🅟 pela vesícula biliar) e o **suco pancreático** (cujo as enzimas será ativadas por cofatores do epitélio intestinal, como a **colipase** 🅟).
+- Em seguida há a liberação de **secretina**, que tem o efeito duplo de estimular tanto a produção de secreções biliares e pancreáticas quanto a sua liberação no lúmen do duodeno. Dentre essas substâncias, há o **bicarbonato** (para neutralizar a acidez da mistura), a **bile** (produzida 🅟 pelo fígado e armazenada 🅟 pela vesícula biliar) e o **suco pancreático** (cujo as enzimas serão ativadas por cofatores do epitélio intestinal, como a **colipase** 🅟).
 
 Para promover a entrada dessas secreções no duodeno, a secretina promove o relaxamento de dois esfíncteres: o **de Oddi** e o **acessório**.
 
 Esse primeiro é o que guarda a entrada da **papila duodenal maior**, que fica mais distalmente do bulbo duodenal numa região denominada **flexura duodenal**, que marca a passagem da **porção descendente** do duodeno para a **porção horizontal** 🅟 Essa abertura dá acesso à **ampola hepatopancreática**, na qual os fluidos do **ducto pancreático principal** e do **ducto coledócto** (ou “biliar comum”) se misturam.
+
+![partes-duodeno-grays](partes-duodeno-grays.jpg)
 
 Já o segundo pertence à **papila duodenal menor**, que fica mais proximal do bulbo duodenal, no começo da **porção descendente**, e recebe secreção somente do **ducto pancreático acessório** (ou seja, não serve de escoamento para bile) 🅟
 
@@ -1469,7 +1461,7 @@ Junto com o suco pancreático, chega também ao duodeno as enzimas responsáveis
 
 Dentre elas, há, por exemplo, a **quimiotripsina** que apresenta um mecanismo interessante de controle para que ela só seja ativada ao chegar, de fato, ao lúmen duodenal:
 
-Do pâncreas até sua passagem pelas papilas, ela existe sob a forma de “pró-enzima”, desprovida de capacidade enzimática.
+Do pâncreas até sua passagem pelas papilas, ela existe sob a forma de “pró-enzima”, desprovida de capacidade catalítica.
 
 Porém, ao entrar em contato com a mucosa, ela reage com uma enzima produzida pelo epitélio intestinal denominada **enteropeptidase**. Da reação que se segue, a pró-enzima é ativada e transforma-se, de fato, em quimiotripsina.
 
@@ -1499,31 +1491,47 @@ Essa molécula recém formada tem a capacidade de clivar outras pró-enzimas e p
 
 ![anatomia-do-intestino-grosso-grays](anatomia-do-intestino-grosso-grays.jpg)
 
-O intestino grosso (ou cólon) compõe a parte final do trato gastrointestinal e é formado por 4 partes: o ceco, o apêndice vermiforme, o cólon (ascendente, transverso e descendente), o reto e o canal anal 🅟 Ele é mais calibroso que o delgado 🅟 Porém, de forma semelhante a este, é composto por dois tipos de fibras musculares: as circulares, mais internas, e as longitudinais, mais externas.
+O intestino grosso (ou cólon) compõe a parte final do trato gastrointestinal e é formado por **4 partes**: o ceco, o apêndice vermiforme, o cólon (ascendente, transverso e descendente), o reto e o canal anal 🅟 Ele é mais calibroso que o delgado 🅟 Porém, de forma semelhante a este, é composto por dois tipos de fibras musculares: as **circulares**, mais internas, e as **longitudinais**, mais externas.
 
-Entretanto, as fibras longitudinais do cólon, diferentemente do delgado, são descontínuas. E são justamente as mecânicas desses segmentos que confere o aspecto característico dessa região do trato, com vários abaulamentos denominados **haustros** (ou **saculações** 🅟), os quais são separados por fibras transversais chamadas **pregas semilunares**. Aliás, por toda a extensão (porém mais evidentemente no ceco e no cólon ascendente 🅟), é possível observar externamente pequenas projeções das fibras longitudinais denominadas de **tênias**.
+Entretanto, as fibras longitudinais do cólon, diferentemente do delgado, se organizam de uma maneira bastante peculiar. Elas se agrupam em três fitas macroscópicas denominadas de **tênias** cólicas. Essas estruturas percorrem todo o comprimento do intestino, mas são mais visíveis do início da parte transversa até o final do sigmóide.
 
-Além disso, por todo o comprimento do intestino grosso (porém mais evidentemente no cólon sigmóide 🅟), há pequenos pingentes de tecido conjuntivo e gordura derivados do omento. Essas estruturas são chamadas de **apêndices epiplóicos**.
+É a maneira como essas fitas aderem-se ao cólon que determina boa parte de sua morfologia. Por exemplo, nos lugares onde a tênia circunda o trato, criam-se sulcos que delimitam várias **saculações** (ou **haustros**) essenciais para a motilidade cólica. Essas constrições também criam evaginações na parede interna do intestino denominadas de **pregas semilunares**, que auxiliam na defecação.
 
-Já na parte inicial do cólon, denominada **ceco** 🅟, é possível perceber uma pequena estrutura alongada chamada de **apêndice vermiforme**, o qual pensava-se, até pouco tempo, ser apenas um órgão vestigial, mas que parece ter a importante função de abrigar parte da microbiota intestinal para ocasionais recolonizações quando a mucosa é varrida por um movimento de diarréia.
+![tenia-colica-bifurcacao-grays](tenia-colica-bifurcacao-grays.jpg)
 
-### Os mesentérios e as tênias cólicas
+Cada uma dessas três fitas possui um nome específico que antecipa sua peculiaridade anatômica:
 
-As tênias de cada parte do intestino grosso recebem nomes específicos:
+![tenias](tenias.jpg)
 
-- Colo ascendente --> **tênia livre** (_“tenia libera”_)
+- A **tênia omental** é a que aparece na vista anterior do intestino, depois que ele rotaciona na flexura direita (ou seja, é visível somente no colo transverso).
 
-- Colo transversa --> **tênia mesocólica**
+	![tenia-omental-transverso-grays](tenia-omental-transverso-grays.jpg)
 
-- Colo sigmóide --> **tênia omental**
+	Visto que é justamente o colo transverso que é recoberto por uma prega peritonial 🅟 conhecida como **omento maior**, é daí que a tênia omental deriva seu nome.
 
-As tênias transversa e omental são o local de inserção de dobras do peritônio chamadas de **mesentérios**, os quais prendem o cólon à parte posterior da parede abdominal. A única tênia que não recebe inserção do peritônio é a tênia livre 🅟, e por isso mesmo recebe esse nome.
+	![omento-maior-grays](omento-maior-grays.jpg)
 
-![mesenterios](mesenterios.jpeg)
+- Quanto à **tênia mesentérica** (também chamada de **mesocólica**), a razão é similar.
 
-Note que existe um **mesentério ascendente**, mas ele _não_ se insere na tênia do colo correspondente.
+	Perceba que, na seguinte representação do colo descendente, essa tênia aparece encoberta por uma membrana vascularizada:
+	
+	![tenia-mesenterio-grays](tenia-mesenterio-grays.jpg)
 
-Além disso, aderido à **junção ileocecal** e ao **apêndice vermiforme**, há também uma pequena prega de peritônio denominada **mesoapêndice**
+	Essa prega chama-se **mesentério** e é também uma parte do peritônio 🅟 É da proximidade entre essas duas estruturas que a tênia mesentérica deriva seu nome.
+
+- Por fim, a **tênia livre** é a que fica na face anterior da parte ascendente e da parte descendente do cólon:
+
+	![mesoapendice-tenia-livre-grays](mesoapendice-tenia-livre-grays.jpg)
+
+	Seu nome vem do fato de ela, diferentemente das outras, não ter relação com nenhuma estrutura peritoneal 🅟 De fato, por todo o comprimento do trato, ela fica sempre na face imediatamente oposta à inserção do mesentério:
+	
+	![mesenterio-tenia-livre-grays](mesenterio-tenia-livre-grays.jpg)
+
+Além disso, dispersos pelo comprimento do intestino grosso, há pequenos pingentes de tecido conjuntivo e gordura derivados do omento. Essas estruturas são chamadas de **apêndices epiplóicos** e, nas pessoas obesas, são bastante evidentes (sobretudo no colo sigmóide 🅟)
+
+Para finalizar, voltando à parte inicial do cólon (denominada **ceco** 🅟), é possível perceber também uma pequena estrutura alongada chamada de **apêndice vermiforme**, o qual pensava-se, até pouco tempo, ser apenas um órgão vestigial, mas que parece ter a importante função de abrigar parte da microbiota intestinal para ocasionais recolonizações (por exemplo, quando a mucosa é varrida por um movimento diarréico).
+
+Aderido a essa estrutura e também à **junção ileocecal**, encontra-se a terceira e menor pequena prega do peritônio: o **mesoapêndice**
 
 ![mesoapendice-tenia-livre-grays](mesoapendice-tenia-livre-grays.jpg)
 
@@ -1565,15 +1573,15 @@ Os movimentos **propulsivos** (ou **peristálticos**) são aqueles que empurram 
 
 Para que eles ocorram, a parte do trato imediatamente adiante do conteúdo digestório deve relaxar e a parte imediatamente anterior deve contrair. Isso compõe uma força resultante com sentido dianteiro, que empurra o material na direção caudal 🅟
 
-Por outro lado, os movimentos **de mistura** são aqueles que misturam o alimento com as enzimas digestivas e sucos gástricos, garantindo que os nutrientes sejam adequadamente quebrados e absorvidos pelo organismo. Esses movimentos são especialmente importantes no estômago e no intestino delgado, onde ocorre a maior parte da digestão e absorção de nutrientes
+Por outro lado, os movimentos **de mistura** são aqueles que, de fato, imbuem o alimento de enzimas digestivas e suco gástrico, garantindo que os nutrientes sejam adequadamente quebrados e absorvidos pelo organismo. Esses movimentos são especialmente importantes no estômago e no intestino delgado, onde ocorre a maior parte da digestão e absorção de nutrientes
 
-Também chamados de movimentos **de segmentação**, esse aspecto da motilidade consiste em uma série de constrições alternadas que dividem o conteúdo digestivo em partes cada vez menores, o que aumenta sua superfície de contato e, consequentemente, a área de atuação das enzimas.
+Também chamados de movimentos **de segmentação**, esse mecanismo consiste em uma série de constrições alternadas que dividem o conteúdo digestivo em partes cada vez menores, o que aumenta sua superfície de contato e, consequentemente, a área de atuação das enzimas.
 
 ![segmentacao-digestivo](segmentacao-digestivo.png)
 
 Por fim, os movimentos **de massa** são os responsáveis pela regularidade da defecação, devido ao seu papel de efetivamente empurrar o bolo fecal contra o esfíncter anal e estimular o reflexo da expulsão.
 
-Todos esses movimentos são controlados pelo sistema nervoso entérico, que é um sistema nervoso autônomo que funciona independentemente do sistema nervoso central. O sistema nervoso entérico é responsável por coordenar e regular as atividades do trato gastrointestinal para garantir que a digestão e a absorção ocorram de maneira eficiente.
+Todos esses movimentos são controlados pelos plexos entéricos, os quais compõem um sistema nervoso autônomo capaz de funcionar independentemente do central.
 
 ### VASCULARIZAÇÃO DO SISTEMA DIGESTIVO
 
@@ -1592,16 +1600,18 @@ O trato gastrointestinal embrionário é composto por três segmentos:
 Ainda durante o período embrionário, cada segmento recebe uma ramificação da aorta abdominal que suprirá os órgãos resultantes na fase adulta:
 
 - O intestino anterior recebe a **artéria celíaca**.
-- O intestino médio recebe a **artéria mesentérica anterior**.
-- O intestino posterior recebe a **artéria mesentérica posterior**.
+- O intestino médio recebe a **artéria mesentérica superior**.
+- O intestino posterior recebe a **artéria mesentérica inferior**.
 
 Mais aprofundadamente, cada artéria ramifica-se e vasculariza partes específicas de cada órgão.
 
-A artéria celíaca subdivide-se em:
+A celíaca subdivide-se em:
 
-- **Artéria gástrica esquerda:** que nutre a parte distal do esôfago e a parte superior esquerda do estômago (onde conecta-se esôfago) 🅟
+- **Artéria gástrica esquerda:** que nutre a parte distal do esôfago e a parte superior esquerda do estômago 🅟
 - **Artéria esplênica:** supre o baço, o pâncreas e parte média do estômago.
-- **Artéria hepática comum:** que ramifica-se en artéria hepática própria (que irriga o fígado), artéria gástrica direita e artéria gastroduodenal (que irriga a parte distal do estômago e o começo do intestino delgado).
+- **Artéria hepática comum:** que ramifica-se em artéria hepática própria (que irriga o fígado), artéria gástrica direita e artéria gastroduodenal (que irriga a parte distal do estômago e o começo do intestino delgado).
+
+![tronco-celiaco-grays](tronco-celiaco-grays.jpg)
 
 > **MACETE:** “Galera, Estamos Hiper Conectados!”
 >
@@ -1619,6 +1629,8 @@ Já a artéria mesentérica superior tem como ramos:
 - **Artéria cólica direita:** que nutre o cólon ascendente (que fica na parte direita do abdômen).
 - **Artéria cólica média:** que irriga o cólon transverso.
 
+![mesenterica-superior-grays](mesenterica-superior-grays.jpg)
+
 > **MACETE:** “Panquecas Deliciosas, Inteiramente Irresistíveis, Iluminam o Íleo e Colorem as Cólicas”
 >
 > “Panquecas Deliciosas” --> pancreaticoduodenal
@@ -1632,6 +1644,8 @@ Por fim, a artéria mesentérica inferior apresenta os seguintes ramos:
 - **Artéria cólica esquerda:** que supre o cólon descendente (que fica do lado esquerdo do corpo).
 - **Artérias sigmóides:** que nutrem o sigmóide.
 - **Artéria retal superior:** que irriga o reto e a parte superior do canal anal.
+
+![mesenterica-inferior-grays](mesenterica-inferior-grays.jpg)
 
 > **MACETE:** “Com Sigmóide Retal, Cólica Esquerda é super normal!”
 
@@ -1653,15 +1667,15 @@ Quando o sangue venoso portal chega a essas unidades, ele atravessa os **sinusó
 
 ### HISTOLOGIA DO SISTEMA GASTROINTESTINAL
 
-### Os epitélio predominantes do trato digestivo
+### Os epitélios predominantes do trato digestivo
 
 #### EPITÉLIO PAVIMENTOSO ESTRATIFICADO NÃO-QUERATINIZADO 
 
 ![esofago-histo](esofago-histo.jpg)
 
-O **epitélio do tipo pavimentoso estratificado não-queratinizado** é típico de regiões vulneráveis que necessitem de alta renovação celular e, portanto, é encontrado nas extremidades do trato gastrointestinal como no **esôfago, boca e ânus** 🅟 Observe também que essas regiões não são especializadas para o papel da absorção, o que necessitaria de um epitélio com outras características (_ver “epitélio simples colunar”_).
+O **epitélio do tipo pavimentoso estratificado não-queratinizado** é típico de regiões vulneráveis que necessitem de alta renovação celular e, portanto, é encontrado nas extremidades do trato gastrointestinal como no **esôfago, mucosa oral e ânus** 🅟 Observe também que essas regiões não são especializadas para o papel da absorção, o que necessitaria de um epitélio com outras características (_ver “epitélio simples colunar”_).
 
-Esse tipo de epitélio é composto por duas camadas de células: as apicais e as planas. As apicais apresentam formato plano, enquanto que as basais são cuboides ou colunares e são metabolicamente ativas com alta taxa de divisão celular.
+Esse tipo de tecido é composto por duas camadas de células: as apicais e as basais. As apicais apresentam formato plano, enquanto que as basais são cuboides ou colunares e são metabolicamente ativas com alta taxa de divisão celular.
 
 Uma característica que distingue o epitélio dessas áreas em relação ao da epiderme é a ausência de uma camada impermeabilizante de queratina superiormente às células apicais. Isso se deve à relativa umidade do trato gastrointestinal, comparada ao ar seco ao qual a epiderme é submetida.
 
@@ -1743,7 +1757,7 @@ As papilas gustativas são elevações da própria mucosa lingual e recobrem tod
 
 #### HISTOLOGIA DAS GLÂNDULAS SALIVARES
 
-Na cavidade oral, podemos encontrar inúmeras estruturas denominadas **glândulas salivares**, as quais tratam-se de formações epiteliais sustentadas por uma camada de tecido conjuntivo denso não-modelado 🅟 que têm função de secretar inúmeras substâncias na cavidade oral. Elas podem ser de vários tipos:
+Na cavidade oral, podemos encontrar inúmeras estruturas denominadas **glândulas salivares**, as quais tratam-se de formações epiteliais sustentadas por uma **lâmina basal** de tecido conjuntivo denso não-modelado 🅟 que têm função de secretar inúmeras substâncias na cavidade oral. Elas podem ser de vários tipos:
 
 O primeiro tipo, **as glândulas salivares menores**, são microscópicas e estão dispersas por toda a região oral. Sua secreção é _mucosa_ 🅟 e tem função predominantemente de umidificar o epitélio e evitar o ressencamento
 
@@ -1751,11 +1765,15 @@ Já o segundo tipo, as **glândulas salivares maiores**, são três no total: as
 
 ![salivares-brief](salivares-brief.jpg)
 
-Nas parótidas, que possuem uma secreção mais aquosa, as células são cuboides com núcleo circular. A saliva produzida por essas estruturas contém bicarbonato (para neutralizar o ambiente oral), ions (para manter o equilíbrio osmótico), enzimas digestivas (como a amilase) e substâncias de defesa, como a lisozima (que age diretamente na parede celular das bactérias) e a lactoferrina (que sequestra o ferro do qual os microrganismos dependem para proliferar-se) 🅟 O ducto que leva suas secreções desemboca no vestíbulo da boca 🅟, na altura dos segundo molares.
+Nas parótidas, que possuem uma secreção mais aquosa, as células são cuboides com núcleo circular. A saliva produzida por essas estruturas contém bicarbonato (para neutralizar o ambiente oral), ions (para manter o equilíbrio osmótico), enzimas digestivas (como a amilase) e substâncias de defesa, como a lisozima (que age diretamente na parede celular das bactérias) e a lactoferrina (que sequestra o ferro do qual os microrganismos dependem para proliferar-se) 🅟 O ducto que leva suas secreções desemboca no vestíbulo da boca 🅟, na altura dos segundo molares:
+
+![ducto-parotido-vestibulo](ducto-parotido-vestibulo.jpeg)
 
 Nas sublinguais, onde a secreção é mais mucosa, as células possuem uma base e um ápice bem definidos, com as organelas relacionadas à secreção (retículo e Golgi) organizando-se em sequência entre o núcleo achatado e a região apical. A saliva produzida por essas glândulas é composta sobretudo por glicoproteínas e mucopolissacarídeos.
 
 Já na glândula submandibular, vemos uma situação diferente. Essa é uma glândula cuja secreção tem característica mista (entre mucosa e serosa). Isso é refletido na sua anatomia microscópica, que combina uma camada de células de secreção tipicamente mucosa (azul) com uma estrutura em formato de **semilua** contendo glândulas serosas (rosa). Para que a mistura ocorra, a secreção aquosa das células mais profundas do ácino são conduzidas por **canalículos** até a cavidade.
+
+> **MACETE:** Glândula sub-“mistibular” --> secreção mista
 
 Apesar dessas diferenças entre as glândulas, em todas é possível identificar uma camada de **células mioepiteliais**, que é responsável por comprimir o ácino e ejetar a secreção para os dutos. 
 
@@ -1763,9 +1781,13 @@ Apesar dessas diferenças entre as glândulas, em todas é possível identificar
 
 #### As camadas do intestino
 
-O intestino é dividido em quatro camadas principais, da camada mais interna para a mais externa:
+O intestino é dividido em quatro camadas principais, majoritariamente contínuas com o estômago:
 
-- **Mucosa:** É a camada mais interna do intestino, responsável pela absorção de nutrientes. É composta por três camadas: 
+![camadas-tgi-ross](camadas-tgi-ross.jpg)
+
+Da camada mais interna para a mais externa:
+
+- **Mucosa:** É a parte mais interna do intestino, responsável pela absorção de nutrientes. É composta por três subcamadas: 
 
 	- O **epitélio intestinal**, que contém várias células especializadas, incluindo células caliciformes, células enteroendócrinas e células absortivas (_ver “O epitélio intestinal”)_, além de glândulas que secretam muco e enzimas digestivas.
 
@@ -1781,10 +1803,18 @@ O intestino é dividido em quatro camadas principais, da camada mais interna par
 
 	Entre essas fibras, localizam-se dois grupos celulares responsáveis pela coordenação do movimento desses músculos:
 	
-	As **células intersticiais de Cajal**, que comunicam-se com as fibras por junções gap e promovem a propagação de **ondas lentas** da motilidade intestinal (que são a base para os movimentos maiores do intestino).
+- As **células intersticiais de Cajal**, que comunicam-se com as fibras por junções gap e promovem a propagação de **ondas lentas** da motilidade intestinal (que são a base para os movimentos maiores do intestino).
 
-	E o **plexo mioentérico (ou “de Auerbarch”)**, que compõe o sistema nervoso entérico e responde pela motilidade intestinal 🅟, mais precisamente pelas **ondas em espícula (excitatórias)** e do ritmo do trato.
-	
+> **MACETE:** Cajal --> Cajalento --> ondas lentas
+
+- E o **plexo mioentérico (ou “de Auerbarch”)**, que compõe o sistema nervoso entérico e responde pela motilidade intestinal 🅟, mais precisamente pelas **ondas em espícula (excitatórias)** e do ritmo do trato.
+
+> **MACETE:** 
+>
+> Plexo abaixo da subMUCOsa --> auxilia a secreção 
+>
+> Plexo entre as camadas musculares --> MIOentérico
+
 > **CAIU EM PROVA!**
 >
 > As funções secretórias e de motilidade do sistema gastrointestinal dependem da atividade do/a __________ e do/a __________ respectivamente:
@@ -1803,12 +1833,12 @@ O intestino é dividido em quatro camadas principais, da camada mais interna par
 > 
 > ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
 
-- **Serosa ou adventícia:** A camada mais externa do intestino é composta por tecido conjuntivo e tecido epitelial. A serosa cobre a maior parte do intestino delgado e parte do intestino grosso, enquanto a adventícia é encontrada na parte restante do intestino grosso. Ela ajuda a proteger o intestino e a conectá-lo aos órgãos vizinhos.
-
-> **MACETE:** “Muitos Seres Misticamente Submersos”
-> ![sereia-intestino-dall-e](sereia-intestino-dall-e.png)
+- **Serosa ou adventícia** A camada mais externa do intestino é composta por tecido conjuntivo e tecido epitelial. A serosa cobre a maior parte do intestino delgado e parte do intestino grosso, enquanto a adventícia é encontrada na parte restante do intestino grosso. Ela ajuda a proteger o intestino e a conectá-lo aos órgãos vizinhos.
 
 ##### O EPITÉLIO INTESTINAL
+
+![epitelio-delgado-gartner](epitelio-delgado-gartner.jpeg)
+![epitelio-grosso-gartner](epitelio-grosso-gartner.jpeg)
 
 O epitélio do intestino contém vários tipos de células, incluindo:
 
@@ -1818,11 +1848,15 @@ O epitélio do intestino contém vários tipos de células, incluindo:
 
 - **Células enteroendócrinas** que liberam hormônios que regulam a digestão e a absorção de nutrientes.
 
-- **Células de Paneth**, que secretam peptídeos antimicrobianos e enzimas que ajudam a defender o revestimento intestinal contra bactérias prejudiciais.
+- **Células de Paneth** (do intestino delgado), que secretam peptídeos antimicrobianos e enzimas que ajudam a defender o revestimento intestinal contra bactérias prejudiciais.
 
 - **Células tronco**, responsáveis por regenerar e repor o epitélio intestinal. 
 
-- **Células L**, que secretam uma substância chamada “peptídeo similar ao glucagon 1” (“GLP-1”), o qual é responsável por sincronizar a motilidade e a digestão gastrointestinal por meio do retardo do esvaziamento gástrico e influência sobre o pâncreas (com a diminuição do glucagon e aumento da insulina em antecipação à elevação da glicemia) 🅟
+- **Células L**, que secretam uma substância chamada “peptídeo similar ao glucagon 1” (“GLP-1”), cuja função é evitar o aumento súbito da glicemia após uma refeição.
+
+	O mecanismo é bem simples: o GLP-1 tem seus próprios receptores nas células alfa do pâncreas (onde o glucagon é produzido). Quando esse peptídeo liga-se ao seu sítio, ele ativa uma cascata que inibe os mensageiros intermediários do glucagon.
+	
+	Além disso, ele regula positivamente a insulina, de modo a garantir que a glicose absorvida vá para os tecidos e não fique somente no sangue. Por fim, ele também tem efeito sobre o esvaziamento gástrico, para que ele não ocorra de forma muito súbita e sobrecarregue o corpo 🅟
 
 > **CAIU EM PROVA:**
 >
@@ -1850,7 +1884,9 @@ O intestino apresenta três adaptações principais para potencializar sua super
 
 ![pregas-circulares-ross](pregas-circulares-ross.jpg)
 
-- As **vilosidades**, que contém dentro de si um compartilhamento denominado **ducto galactóforo**, o qual engloba vasos sanguíneos e capilares linfáticos que auxiliam no transporte dos nutrientes absorvidos. Na base dessas estruturas, encontram-se as **criptas de Lieberkuhn**, cavidades tubulares de epitélio colunar simples onde se concetram a maior parte das células especiais do intestino (_ver “O epitélio intestinal”)_.
+- As **vilosidades** (presentes no intestino delgado), que contém dentro de si um compartilhamento denominado **ducto galactóforo**, o qual engloba vasos sanguíneos e capilares linfáticos que auxiliam no transporte dos nutrientes absorvidos (quilo). 
+
+	Na base dessas estruturas, encontram-se as **criptas de Lieberkuhn**, cavidades tubulares de epitélio colunar simples onde se concetram a maior parte das células especiais do intestino (_ver “O epitélio intestinal”)_.
 
 ![vilosidades-intestinais-ross](vilosidades-intestinais-ross.jpg)
 
@@ -1872,13 +1908,21 @@ Por esse motivo, diversas substâncias podem ser usadas para aferir a função h
 
 > **MACETE:** AL-T, AS-T --> triglicerídeos --> devem ser monitorados durante o tratamento por hiperlipidemia
 
-Inclusive, a razão AST/ALT é um importante indicador da natureza e da gravidade de doenças, visto que o ALT, que está mais intimamente ligado a doenças especificamente hepáticas 🅟 e uma relação com excesso desse segundo é um pior sinal prognóstico para o paciente 🅟
+Inclusive, a razão AST/ALT é um importante indicador da gravidade de doenças hepáticas, visto que o AST é uma enzima mitocondrial que, quando encontra-se elevada, indica que houve dano profundo nos hepatócitos (afetando as estruturas intracelulares) 🅟 enquanto que o ALT é um melhor indicador de _extensão_ do tecido lesionado. Assim, um coeficiente AST/ALT elevado é um fator de prognóstico ruim para o paciente 🅟
+
+> **MACETE:**
+>
+> ALT --> L --> Liver
+>
+> AST --> S --> Sistemas --> “Somato” --> todo o corpo
 
 - O **gama GT (GGT)**, responsável por proteger oxidativamente o fígado através do controle dos níveis de “glutatião”, um poderoso antioxidante. Encontra-se elevado nas mesmas condições que o AST além de estar presente em casos de colecistite (inflamação das vias biliares) e na pancreatite, por também ser comum às células dessas estruturas.
 
 - A **alfacetoproteína**, também chamada de “proteína do soro fetal”, por ser uma proteína comum do feto mas anormal no organismo adulto. É um marcador tumoral importante e encontra-se elevada em condições oncológicas do fígado 🅟
 
 - A **fosfatase alcalina (ALP)**, cujo papel é essencial para o metabolismo do fosfato, pois tem a função de desvincular o fosfato de outras moléculas orgânicas durante a digestão ou na própria circulação sanguínea. É um marcador bastante inespecífico por ser comum tanto ao tecido hepático quanto ao músculo-esquelético. Encontra-se aumentada durante a obstrução biliar e a cirrose.
+
+> **MACETE:** AL-P --> P --> fosfato --> sal --> sais biliares --> bile
 
 - A **antitrombina (AT)**, que é produzida no fígado e que encontra-se elevada nas mesmas condições que o AST.
 
@@ -1922,33 +1966,39 @@ Inclusive, a razão AST/ALT é um importante indicador da natureza e da gravidad
 
 Uma ocorrência comum na clínica é a necessidade de diferenciar uma doença **obstrutiva** das vias biliares de uma condição em que haja lesão **hepatocelular** do fígado em si (como na hepatite e no dano decorrente do consumo de álcool).
 
-No primeiro caso, é esperado que haja aumento em marcadores como o **GGT**, que age na transformação do colesterol em sais biliares, na **fosfatase alcalina**, que é o melhor marcador enzimático da colestase 🅟, e na **bilirrubina**, que é um dejeto da degradação de eritrócitos velhos que é secretado junto com a bile 🅟
+No primeiro caso, é esperado que haja aumento em marcadores como o:
+
+ - **GGT**, que age na transformação do colesterol em sais biliares
+
+ - na **fosfatase alcalina**, que é o melhor marcador enzimático da colestase 🅟; e
+
+ - na **bilirrubina**, que é um dejeto da degradação de eritrócitos velhos que é secretado junto com a bile 🅟
 
 Devido à disfunção da transformação do colesterol, é comum a presença de hipercolesterolemia nos exames laboratoriais e, possivelmente, sintomas clínicos como o **xantelasma**. Já o acúmulo de bilirrubina leva à clássica **icterícia** 🅟
 
 A deficiência na absorção de lipídeos decorrente da redução da bile resulta também em várias manifestações clínicas aparentes, como fezes pálidas (ricas em gordura não digerida), náusea, dor de cabeça e cansaço (decorrente da redução da energia absorvida sem o auxílio dos lipídeos) 🅟
 
-Por outro lado, na doença hepatocelular, são encontradas em níveis elevados certas enzimas que, usualmente, ficam contidas no interior das células, como o **ALT, AST e TGP** 🅟
+Por outro lado, na doença hepatocelular, são encontradas em níveis elevados certas enzimas que, usualmente, ficam contidas no interior das células, como o **ALT e AST** 🅟
 
-### Metabolismo da bilirrubina 
+### Metabolismo do grupo heme 
 
 As hemácias são células sanguíneas que transportam oxigênio para as células do corpo. Quando essas células envelhecem ou são danificadas, elas são removidas do corpo pelo **sistema reticuloendotelial**, que inclui o baço, o fígado e a medula óssea.
 
 Uma das substâncias resultantes da degradação das hemácias é a **bilirrubina**, que é produzida pela enzima **UGT** a partir da **hemoglobina** das hemácias.
 
-Mais precisamente, a bilirrubina é produzida a partir do grupo **heme** das hemoglobinas. Esse é inicialmente convertido em uma substância chamada **biliverdina**, que, esta sim, é transformada em bilirrubina pela UGT.
+Mais precisamente, a bilirrubina é produzida a partir do grupo **heme** das hemoglobinas. Esse é inicialmente convertido em uma substância chamada **biliverdina**, que, por sua vez, é transformada em bilirrubina pela UGT.
 
 Quando esse processo ocorre no fígado, a bilirrubina produzida ainda sofre um processamento final, no qual um carboidrato chamado **ácido glicurônico** lhe é adicionado (o que torna todo o composto solúvel em água).
 
 A **bilirrubina conjugada** tem, então, dois destinos:
 
-- Ela pode ser secretada na **bile**, que é armazenada na vesícula biliar e liberada no trato gastrointestinal para ajudar na digestão de gorduras. É por esse motivo que, quando há obstrução das vias biliares, a icterícia (coloração amarelada da pele causada pelo acúmulo de bilirrubina) é um sintoma comum.
+- Primeiramente, ela pode ser secretada na **bile**, que é armazenada na vesícula biliar e liberada no trato gastrointestinal para ajudar na digestão de gorduras (e cuja obstrução gera o seu acúmulo e consequente icterícia)
 
-	No trato gastrointestinal, a bilirrubina é transformada em **urobilinogênio** e **urobilina** por bactérias presentes no intestino. Parte dessas substâncias é excretada nas fezes, dando-lhes suas cores características.
+	No trato gastrointestinal, a bilirrubina é transformada em **urobilinogênio** e **urobilina** por bactérias presentes no intestino. Parte dessas substâncias é excretada nas fezes, dando-lhes sua cor característica.
 
-- Alternativamente, ela pode ser excretada na urina, o que lhe confere sua cor amarelada.
+- Alternativamente, ela pode ser liberada na urina, o que lhe confere a coloração amarelada.
 
-	Entretanto, quando há sobrecarga de destruição de hemácias (como em hematomas causados por politraumas 🅟), a conjugação da bilirrubina pode ficar defasada. Visto que a bilirrubina não-conjugada é insolúvel em água, ela tende a se acumular e obstruir os túbulos renais, causando uma sobrecarga nos rins 🅟
+	Por outro lado, quando há sobrecarga de destruição de hemácias (como em hematomas causados por politraumas 🅟), a conjugação da bilirrubina pode ficar defasada. Visto que a bilirrubina não-conjugada é insolúvel em água, ela tende a se acumular e obstruir os túbulos renais, causando uma sobrecarga nos rins 🅟
 
 ### Metabolismo de carboidratos
 
@@ -1958,19 +2008,19 @@ A digestão dos carboidratos é protagonizada pelas enzimas de dois órgãos dig
 
 Na saliva, esse processo é protagonizado sobretudo pela **alfa-amilase**, que quebra sobretudo as cadeias lineares do amido (formadas pelas ligações entre os carbonos 1 e 4 🅟 dos resíduos de açúcar) em inúmeros produtos, como a glicose, galactose e em um polissacarídeo especial chamado **beta-dextrina** 🅟
 
-Essa beta-dextrina é precisamente as partes do amido compostas por ligações beta ao invés de ligações alfa. Por esse motivo, a alfa-amilase não consegue quebrá-las e delega esse papel para a **beta-amilase** do pâncreas.
+As beta-dextrinas são precisamente as partes do amido compostas por ligações beta ao invés de ligações alfa. Por esse motivo, a alfa-amilase não consegue quebrá-las e delega esse papel para a **beta-amilase** do pâncreas.
 
-Além disso, o amido também contém certas ramificações em sua extensão. Esses ramos são formados por ligações entre os carbono 1 e 4 dos açúcares, o que lhe confere certa angulação.
+Além disso, o amido também contém certas ramificações em sua extensão. Esses ramos são formados por ligações entre os carbono 1 e 6 dos açúcares, o que confere certa angulação à molécula.
 
-Visto que a amilase só tem capacidade limitada de quebrar essas ligações, a maior parte de sua digestão é dominada pela **isoamilase** do pâncreas.
+Visto que a amilase só tem capacidade limitada de quebrar essas ligações, essa parte da digestão é dominada pela **isoamilase** do pâncreas.
 
-Em caso de obstrução das vias biliares (por **litíase** ou similar), o pâncreas pode entrar em processo inflamatório (**pancreatite**), cujo um dos sinais clínicos é a elevação dos níveis de amilase no sangue 🅟
+Inclusive, em caso de obstrução das vias biliares (por **litíase** ou similar), o pâncreas pode entrar em processo inflamatório (**pancreatite**), cujo um dos sinais clínicos é a elevação dos níveis de amilase no sangue 🅟
 
 #### ABSORÇÃO DOS CARBOIDRATOS 
 
 ![absorcao-carboidratos](absorcao-carboidratos.jpg)
 
-A absorção intestinal de carboidratos é mediada por 3 transportadores de membrana:
+A absorção intestinal de carboidratos é mediada por 3 transportadores de membrana 🅟:
 
 - **SGL-T1**, ou “sodium-glucose linked transporter”, que transporta glicose e galactose para o meio intracelular em troca do sódio.
 
@@ -2000,7 +2050,7 @@ As fibras alimentares, apesar de não serem absorvidas pelo trato gastrointestin
 
 Seu papel mais proeminente é o de promover a retenção de água no bolo fecal e facilitar a motilidade do intestino.
 
-Porém, avanços na compreensão dessas substâncias revelaram que sua atuação vai muito além do auxílio na motilidade. Na realidade, certas fibras, especialmente as denominadas **solúveis**, são parcialmente digeridas 🅟, liberando frações que criam uma camada de água estacionária entre a mucosa e o lúmen do intestino e reduzem a absorção excessiva de carboidratos e lipídios 🅟 Inclusive, essa camada também reduz a reabsorção 🅟 de sais biliares, o que ajuda a controlar os níveis de colesterol no sangue.
+Porém, avanços na compreensão dessas substâncias revelaram que sua atuação vai muito além do auxílio na motilidade. Na realidade, certas fibras, especialmente as denominadas **solúveis**, são parcialmente digeridas 🅟, liberando frações que criam uma camada de água estacionária entre a mucosa e o lúmen do intestino, o que reduz a absorção excessiva de carboidratos e lipídios 🅟 Inclusive, essa camada também reduz a reabsorção 🅟 de sais biliares, o que ajuda a controlar os níveis de colesterol no sangue.
 
 Dentre as fibras solúveis, encontramos a pectina (das frutas), os betaglicanos (de certos grãos e cogumelos 🅟) e a inulina (de certas verduras). Já quanto às **insolúveis**, temos o exemplo clássico da celulose, da hemicelulose e da lignina 🅟 (presentes nas folhas verdes).
 
@@ -2030,7 +2080,7 @@ Os triglicerídeos, antes de serem absorvidos, são completamente 🅟 hidroliza
 
 Já quanto ao colesterol, esse não é quebrado no lúmen e atravessa o epitélio intacto. Dentro dos quilomicrons, ele encontra-se associado aos ácidos graxos, formando os **ésteres de colesterol**.
 
-É a junção desses ésteres de colesterol com triglicerídeos, fosfolipídeos e lipoproteínas que resulta no **quilomicron nascente**, formado logo após a absorção de lipídeos no intestino. Após um certo tempo circulando na corrente sanguínea, o quilomicron acumula uma variedade maior de lipoproteínas e também de enzimas que degradam o seu conteúdo. É nesse estágio que essa formação recebe o nome de **quilomicron maduro** 🅟
+É a junção desses ésteres de colesterol com triglicerídeos, fosfolipídeos e lipoproteínas que resulta no **quilomicron nascente** 🅟, formado logo após a absorção de lipídeos no intestino. Após um certo tempo circulando na corrente sanguínea, o quilomicron acumula uma variedade maior de lipoproteínas e também de enzimas que degradam o seu conteúdo. É nesse estágio que essa formação recebe o nome de **quilomicron maduro** 🅟
 
 > **CAIU EM PROVA!**
 > 
@@ -2056,7 +2106,7 @@ Já quanto ao colesterol, esse não é quebrado no lúmen e atravessa o epitéli
 >
 > E) Uma delas, apenas.
 >
-> GABARITO: 66 - (7 x 19)
+> GABARITO: 135 - (7 x 19)
 > 
 > ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
 
