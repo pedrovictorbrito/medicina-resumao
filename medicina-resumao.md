@@ -158,7 +158,7 @@
 
   * [Indicadores laboratoriais da função hepática ](#indicadores-laboratoriais-da-função-hepática)
 
-  * [Metabolismo da bilirrubina ](#metabolismo-da-bilirrubina)
+  * [Metabolismo do grupamento heme](#metabolismo-do-grupamento-heme)
 
   * [Metabolismo de carboidratos](#metabolismo-de-carboidratos)
 
@@ -728,7 +728,19 @@ Isso ocorre devido à interpretação primal do cérebro de que o estresse é se
 
 ### O mecanismo diabetogênico do GH
 
-Um achado interessante da administração do hormônio do crescimento para certos pacientes é o aumento exponencial da glicemia. Isso ocorre devido ao **efeito diabetogênico** desse hormônio, que causa uma resistência sistêmica à insulina e, junto a isso, todas as consequências que decorrem da redução do efeito fisiológico desse hormônio, como glucagon elevado e esgotamento dos níveis intracelulares de glicose.
+A influência do GH no metabolismo da glicose é extremamente complexo e repleto de mecanismos até mesmo contraditórios.
+
+Por exemplo, apesar do efeito desse hormônio ser, majoritariamente, a elevação da glicemia, a principal via pela qual o GH exerce a função que lhe faz jus ao nome (crescimento) ocorre pela mediação de um hormônio que tem o efeito completamente oposto.
+
+Explicando melhor: o GH promove, no fígado, a secreção de uma substância chamada **fator de crescimento semelhante à insulina tipo 1** (IGF-1 ou **somatomedina C**). Esse hormônio tem função anabólica e, desse modo, apresenta características combinadas tanto da insulina quanto do GH.
+
+A longo prazo, o IGF-1 é responsável pelo crescimento do sistema músculo-esquelético (e sua ausência pode causar baixa estatura 🅟), além de também ser capaz de aumentar a penetração de glicose nos tecido orgânicos assim como a insulina.
+
+Apesar disso, uma consequência comum da administração do hormônio do crescimento para certos pacientes é o aumento exponencial da glicemia. Isso ocorre, porque, acima de tudo, o GH, a curto praxo, apresenta **efeito diabetogênico**, o que causa uma resistência sistêmica à insulina e, junto a isso, também todas as consequências que decorrem da redução do efeito fisiológico desse hormônio, como glucagon elevado e esgotamento dos níveis intracelulares de glicose.
+
+Aliás, outro fator que também contribui para o pico de glicemia do GH é a sua capacidade de estimular a secreção dos hormônios do estresse (adrenalina e cortisol), que, como explicado anteriormente, também têm um efeito hiperglicêmico no organismo.
+
+Em outras palavras, o GH apresenta efeitos tanto diabetogênicos quanto promotores da insulina, porém esses primeiros superam os últimos na maioria das situações, sobretudo durante um regime de suplementação desse hormônio.
 
 ### METABOLISMO DO CÁLCIO 
 
@@ -743,9 +755,9 @@ Abordando especificamente a contribuição do sistema endócrino, podemos destac
 
 Esses hormônios são antagonistas, ou seja, quando um está elevado o outro é inibido 🅟. Suas funções fisiológicas são opostas:
 
-O paratormônio atua sobre os osteoblastos, fazendo com que eles ajam propiciando a diferenciação de monócitos em osteoclastos, que são responsáveis por reabsorver a matriz óssea 🅟
+O paratormônio atua sobre os **osteoblastos**, fazendo com que eles aumentem a concentração de **ligantes de proteína RANK** (RANK-L) na sua membrana. A expressão desse ligante é o que permite aos blastos interagirem com os **monócitos** da matriz, promovendo sua transformação em **osteoclastos** (células que reabsorvem a matriz óssea) 🅟
 
-Essa atuação dos osteoblastos é mediada por uma outra substância, denominada **osteoprotegerina**, cujo papel, como o próprio nome indica, é proteger a matriz óssea pela inativação dos osteoclastos. Ou seja, quando há deficiência de cálcio sérico e os níveis de paratormônio estão elevados, é justamente a osteoprotegerina que é inibida e, desse modo, os osteoclastos podem atuar livremente 🅟
+Essa atuação dos osteoblastos é mediada por uma outra substância, denominada **osteoprotegerina**, cujo papel, como o próprio nome indica, é proteger a matriz óssea através da inativação dos osteoclastos. Ou seja, quando há deficiência de cálcio sérico e os níveis de paratormônio estão elevados, é justamente a osteoprotegerina que é inibida e, desse modo, os osteoclastos podem atuar livremente 🅟
 
 > **CAIU EM PROVA!**
 >
@@ -1113,13 +1125,29 @@ Esse é o hormônio responsável por controlar o ciclo menstrual da mulher por i
 
 Apesar do GnRH ser uma única molécula, ele é capaz de controlar os níveis de cada gonadotrofina separadamente por meio de um sistema de “pulsação”, no qual o GnTH é liberado em picos e o seu efeito depende do ritmo desses pulsos: frequências mais lentas favorecem a liberação de FSH e frequências mais rápidas levam à secreção de LH.
 
+#### ASPECTOS HISTOLÓGICOS
+
+As células da adenohipófise, além de serem divididas de acordo com suas linhagens, também podem ser classificadas segundo seu comportamento quando coradas histologicamente.
+
+Inicialmente, há dois grupos maiores: as células **cromófobas** e as **cromófilas**. Essas primeiras constituem cerca de 50% de todo o volume hipofisário, mas sua função fisiológica ainda é debatida.
+
+Quando às cromófilas, essas constituem todas as células que pigmentam-se quando corantes são aplicados. Elas podem ser ainda mais subdivididas a depender de qual corante elas têm mais afinidade.
+
+As **acidófilas** são as que ficam mais coradas com eosina. Entram nesse grupo as **somatotróficas** (GH) e as **lactotróficas** (prolactina) 🅟
+
+O outro grupo é o das **basófilas**, que inclui todos os grupos celulares restantes.
+
+> **MACETE:** “Grande prêmio das acidófilas” --> GP das acidófilas --> GH - Prolactina - acidófilas
+
 ### A neurohipófise
 
-A parte posterior da hipófise recebe tratos diretamente do hipotálamo e é responsável por secretar dois hormônios: a **vasopressina** e a **ocitocina**.
+A parte posterior da hipófise recebe tratos diretamente do hipotálamo e é responsável por secretar dois hormônios: a **vasopressina** (ou **ADH**) e a **ocitocina**.
 
 A **vasopressina**, como o próprio nome indica, tem a capacidade de aumentar a pressão arterial sistêmica. Para alcançar esse efeito, ela promove o aumento da reabsorção renal de água pelo recrutamento de canais de membrana (**aquaporina**). Isso leva ao crescimento do volume sanguíneo e consequente intensificação da pressão vascular.
 
 Devido à sua secreção pela parte neural da hipófise, traumas do sistema nervoso central podem ocasionar problemas na sua regulação e desencadear uma condição de diurese excessiva denominada de **diabetes insipidus** (para a definição de diabetes, _ver “Manifestações clínicas da diabetes”_).
+
+Outro fato que inibe o ADH e promove a diurese é o consumo do álcool 🅟 É essa, em grande parte, a causa da ressaca no dia seguinte, visto que a dor de cabeça é ocasionada pela desidratação devido à micção excessiva.
 
 Já a **ocitocina**, essa tem papel fundamental na fisiologia reprodutora da mulher, visto que esse é o hormônio que promove as contrações do parto e a motilidade da tuba uterina (essencial para a ovulação) 🅟
 
@@ -1135,7 +1163,7 @@ No córtex podemos identificar:
 
 > **MACETE:**
 >
-> Aldosterona --> “Saldosterona” --> controla os níveis de sódio na corrente sanguínea 
+> Aldosterona --> “Saldosterona” --> controla os níveis de sódio (positivamente) e potássio (negativamente) na corrente sanguínea 🅟
 >
 > Glomerulosa --> glomérulo --> rins --> Saldosterona
 
@@ -1263,13 +1291,17 @@ O sistema digestivo pode ser compreendido como um longo tubo contínuo por onde 
 
 Para compreender esse processo, é necessário saber algumas definições acerca dos vários fenômenos envolvidos na fisiologia do trato digestivo, como: 🅟
 
+- A **mastigação**, que é a redução do alimento em partículas menores para potencializar o seu contato com o muco lubrificante a saliva digestiva da cavidade oral.
+
+- A **deglutição**, que é a passagem simultaneamente voluntária e involuntária do bolo alimentar para o estômago através do esôfago
+
 - A **motilidade**, que é o movimento de material no trato gastrointestinal como resultado da contração muscular.
 
-- A **absorção**, que é o movimento de substâncias do lúmen do trato gastrointestinal para a circulação 🅟
+- A **absorção**, que é o movimento de substâncias do lúmen do trato gastrointestinal para a circulação.
 
 - A **digestão**, que é a quebra, ou degradação, química e mecânica dos alimentos em unidades menores que podem ser levadas através do epitélio intestinal para dentro do corpo.
 
-- A **defecação** remove o material não digerido e não absorvido do organismo.
+- E a **defecação**, que remove o material não digerido e não absorvido do organismo.
 
 Esses fenômenos ocorrem de forma controlada e de maneira minutamente regulada a nível anatômico, já que a velocidade de passagem do bolo alimentar é controlada regularmente por **músculos esfíncteres** distribuídos por todo o comprimento do trato 🅟
 
@@ -1354,6 +1386,50 @@ A polpa dentária é responsável por fornecer nutrientes e oxigênio para as c�
 O **cimento** dentário, também conhecido como cemento ou cementum, é um tecido mineralizado que cobre a raiz dos dentes. Ele é produzido pelas células especializadas do **ligamento periodontal**, que fica entre o osso alveolar e a raiz do dente.
 
 O cemento dentário é importante porque ajuda a ancorar as fibras do ligamento periodontal no dente e no osso, proporcionando estabilidade e resistência ao dente. Além disso, o cemento ajuda a proteger a raiz contra danos e desgaste.
+
+### A FARINGE
+
+### O istmo das fauces
+
+![istmo-das-fauces-grays](istmo-das-fauces-grays.jpg)
+
+O istmo das fauces é uma estrutura localizada na parte posterior da boca, entre as amígdalas e a base da língua. É uma abertura estreita que conecta a cavidade oral à faringe. É por onde o alimento e a bebida passam para chegar à faringe e ao esôfago.
+
+O istmo das fauces é formado pelos **pilares palatoglossos** e **palatofaríngeos**, que são dobras de tecido que se estendem para baixo do palato mole. A função dessas dobras é ajudar a manter a garganta aberta e permitir a passagem de alimentos e líquidos.
+
+![arcos-istmo-medial-grays](arcos-istmo-medial-grays.jpg)
+
+### A orofaringe
+
+![partes-faringe-fechada-grays](partes-faringe-fechada-grays.jpg)
+![partes-faringe-aberta-grays](partes-faringe-aberta-grays.jpg)
+
+A orofaringe é a parte da faringe que se encontra na parte posterior da boca, logo atrás da cavidade oral e da língua. É uma das três partes que compõem a faringe, juntamente com a nasofaringe e a hipofaringe.
+
+A orofaringe é um canal muscular que é importante na deglutição de alimentos e líquidos e na passagem do ar durante a respiração. Ela contém as **amígdalas palatinas,** que são tecidos linfoides que ajudam na defesa do organismo contra infecções, além de outras estruturas importantes, como a **úvula** e a **epiglote**.
+
+![orofaringe-mediano-grays](orofaringe-mediano-grays.jpg)
+![orofaringe-aberta-posterior-grays](orofaringe-aberta-posterior-grays.jpg)
+
+A orofaringe também é um local comum de infecções, como a faringite, que pode ser causada por vírus ou bactérias e pode causar dor de garganta, febre e outros sintomas. Além disso, o câncer de orofaringe é uma forma de câncer que pode afetar essa região, sendo mais comum em pessoas que fumam ou usam tabaco oral e em pessoas com infecções crônicas pelo vírus do papiloma humano (HPV).
+
+### A hipofaringe
+
+A hipofaringe, também conhecida como laringofaringe, é a parte mais baixa da faringe, localizada atrás da laringe (caixa de voz) e acima do esôfago. É a parte da faringe que se comunica com a boca e o nariz na parte superior e com o esôfago na parte inferior.
+
+A hipofaringe é um canal muscular que é importante na deglutição de alimentos e líquidos e na passagem do ar durante a respiração. Ela é revestida por uma mucosa que é contínua com a da boca e da laringe, e contém várias estruturas importantes, como a **epiglote**, as **pregas aritenoideias** e a **cartilagem cricoide**. 
+
+![hipofaringe-mediano-grays](hipofaringe-mediano-grays.jpg)
+
+### A nasofaringe 
+
+A nasofaringe é a parte superior da faringe, localizada atrás do nariz e acima do palato mole. É uma região anatômica que conecta a cavidade nasal à faringe e à laringe, e faz parte do sistema respiratório e do sistema digestivo.
+
+Nela, localiza-se o **óstio da tuba auditiva**, também conhecido como tuba auditiva ou tuba de Eustáquio, é uma pequena abertura localizada na parede lateral da nasofaringe, perto da fossa das amígdalas. Essa abertura permite que o ar entre na tuba auditiva, que conecta o ouvido médio à nasofaringe e ajuda a equalizar a pressão do ouvido médio com a pressão externa.
+
+![ostio-faringeo-grays](ostio-faringeo-grays.jpg)
+
+A tuba auditiva é importante para manter a saúde do ouvido médio e prevenir infecções. Quando a tuba auditiva não funciona corretamente, a pressão do ar no ouvido médio pode se tornar desequilibrada, o que pode levar a problemas como dor de ouvido, infecções do ouvido médio e perda auditiva. 
 
 ### O ESÔFAGO
 
@@ -1450,7 +1526,7 @@ São elas também que produzem o **fator intrínseco**, uma substância que liga
 
 Imediatamente abaixo das oxitínicas, há as **células principais (ou “zimogênicas”)**, cujo papel é de secretar duas enzimas: o **pepsinogênio** (que é ativado pelo pH em **pepsina**) e a **lipase gástrica** 🅟 Devido a essa intensa atividade de síntese de enzimas, essas células apresentam uma morfologia bem característica, com várias bolsas delgadas (que são o retículo endoplasmático, responsável pela tradução gênica) circundando o núcleo grande e arredondado 🅟
 
-É a pepsina a principal enzima atuante no estômago. Seu papel, no entanto, não é ilimitado, e por vezes a digestão de peptídeos é finalizada no lúmen intestinal ou até mesmo no interior dos enterócitos 🅟
+É a pepsina a principal enzima atuante no estômago. Seu papel, no entanto, não é ilimitado, e por vezes a digestão de peptídeos é finalizada no lúmen intestinal ou até mesmo no interior das células epiteliais 🅟
 
 E ainda inferiormente a essas, há as **células enteroendócrinas**, cujo principal subtipo são as **células G**. Tais estruturas têm o papel de secretar a **gastrina**, cuja função será explicada em breve 🅟
 
@@ -1512,7 +1588,7 @@ O controle dessa progressão é dado por dois mecanismos:
 
 	Inicialmente , há a liberação de uma secreção alcalina pelas **glândulas de Brunner** da submucosa duodenal 🅟, o que ajuda o intestino a defender-se do primeiro contato com o conteúdo gástrico. 
 
-- Em seguida há a liberação de **secretina**, que tem o efeito duplo de estimular tanto a produção de secreções biliares e pancreáticas quanto a sua liberação no lúmen do duodeno. Dentre essas substâncias, há o **bicarbonato** (para neutralizar a acidez da mistura), a **bile** (produzida 🅟 pelo fígado e armazenada 🅟 pela vesícula biliar) e o **suco pancreático** (cujo as enzimas serão ativadas por cofatores do epitélio intestinal, como a **colipase** 🅟).
+- Em seguida há a liberação de **secretina**, que tem o efeito duplo de estimular tanto a produção de secreções biliares e pancreáticas quanto a sua liberação no lúmen do duodeno. Dentre essas substâncias, há o **bicarbonato** (para neutralizar a acidez da mistura), a **bile** (produzida 🅟 pelo fígado e armazenada 🅟 pela vesícula biliar) e o **suco pancreático**.
 
 Para promover a entrada dessas secreções no duodeno, a secretina promove o relaxamento de dois esfíncteres: o **de Oddi** e o **acessório**.
 
@@ -1619,6 +1695,102 @@ Para finalizar, voltando à parte inicial do cólon (denominada **ceco** 🅟), 
 Aderido a essa estrutura e também à **junção ileocecal**, encontra-se a terceira e menor pequena prega do peritônio: o **mesoapêndice**
 
 ![mesoapendice-tenia-livre-grays](mesoapendice-tenia-livre-grays.jpg)
+
+### OS ÓRGÃOS ANEXOS DO SISTEMA GASTROINTESTINAL
+
+### O fígado 
+
+O fígado é um órgão complexo que é dividido em duas faces: a **diafragmática** (anterior) e a **visceral** (posterior):
+
+![face-diafragmatica-figado-grays](face-diafragmatica-figado-grays.jpg)
+![face-visceral-figado-grays](face-visceral-figado-grays.jpg)
+
+É na face visceral em que é encontrada a estrutura mais importante para o papel fisiológico do fígado: a **porta hepática**, que dá entrada ao **hilo** do fígado.
+
+![hilo-figado-grays](hilo-figado-grays.jpg)
+
+O hilo é o conjunto dos vasos e nervos mais importantes para a fisiologia hepática. Seus componentes macroscópicos são: o **ducto colédoco** (formado pela junção dos **ductos hepáticos** com o **ducto cístico**), a **artéria hepática própria** (ramo da hepática comum do tronco celiaco) e a **veia porta do fígado** 🅟 Em menor parte, a porta também recebe nervos e vasos linfáticos 🅟
+
+É também na face visceral que fica a **área nua** 🅟, que é um importante ponto de acesso cirúrgico por não estar aderida ao peritônio (daí a origem de seu nome).
+
+#### OS LIGAMENTOS
+
+Anteriormente, a estrutrura mais evidente é o **ligamento falciforme**, que delimita os lobos **direito** e **esquerdo**. 
+
+![l-falciforme-figado-kenhub](l-falciforme-figado-kenhub.jpg)
+
+Além disso, superiormente, esse ligamento delimita um espaço entre o fígado e o diafragma chamado de **recesso subfrênico**.
+
+![recesso-subfrenico-kenhub](recesso-subfrenico-kenhub.jpg)
+
+> **MACETE:** Falciforme --> falci --> foice --> “corta” o fígado
+
+Ainda superiormente, é possível encontrar outra camada de tecido fibroso pertencente ao **ligamento coronário**, o qual fixa o fígado à parede abdominal anterior e ao diafragma.
+
+![l-coronario-anterior-figado-kenhub](l-coronario-anterior-figado-kenhub.jpg)
+
+> **MACETE:** Coronário --> coroa --> superiormente 
+
+Essa fibra continua posteriormente para formar também uma camada visceral:
+
+![l-posterior-coronal-figado-kenhub](l-posterior-coronal-figado-kenhub.jpg)
+
+Já nos cantos superiores direito e esquerdo, é possível distinguir do ligamento coronário duas projeções fibrosas distintas, denominadas de **ligamentos triangulares**, que sustentam o fígado na parede lateral do abdômen:
+
+![ligamento-triangular-esquerdo-figado-kenhub](ligamento-triangular-esquerdo-figado-kenhub.jpg)
+
+Por fim, há dois ligamentos que são estruturas vestigiais da fase embrionária: inferiormente, há o **ligamento redondo**, que é derivado da veia umbilical e que, também na fase adulta, liga o umbigo à **porta** do fígado;
+
+![l-redondo-figado-kenhub](l-redondo-figado-kenhub.jpg)
+
+e, finalmente, há o **ligamento venoso**, remanescente do ducto venoso que mediava a veia umbilical à veia cava inferior:
+
+![l-venoso-figado-kenhub](l-venoso-figado-kenhub.jpg)
+
+Esse ligamento demarca a **fissura menor** da face visceral do fígado que se estende desde a porta até a veia cava inferior:
+
+![fissura-l-venoso-grays](fissura-l-venoso-grays.jpg)
+
+#### OS LOBOS
+
+Além dos lobos direito e esquerdo, já mencionados, o fígado também conta com mais dois lobos na face visceral:
+
+![lobo-quadrado-figado-kenhub](lobo-quadrado-figado-kenhub.jpg)
+![lobo-caudado-figado-kenhub](lobo-caudado-figado-kenhub.jpg)
+
+#### AS IMPRESSÕES 
+
+O fígado localiza-se adjacentemente a inúmeras outras estruturas da cavidade abdominal. A pressão desses órgãos sobre o tecido hepático provoca uma série de achados anatômicos denominados de **impressões**.
+
+Dentre elas, podemos destacar: as impressões **renal** e **suprarrenal** do lobo direito, causadas pelo rim da parede posterior do mesmo lado;
+
+![transversal-figado-rim-grays](transversal-figado-rim-grays.jpg)
+
+a impressão **cólica**, causada pelo contato da flexura direita do intestino grosso com o lobo hepático do mesmo lado;
+
+![flexura-colica-direita-grays](flexura-colica-direita-grays.jpg)
+
+e, por fim, as impressões **gástrica** e **esofágica**, que ficam no lobo esquerdo do fígado.
+
+![impressoes-figado-grays](impressoes-figado-grays.jpg)
+
+### O pâncreas 
+
+![pancreas-anterior-grays](pancreas-anterior-grays.jpg)
+
+O pâncreas é uma glândula mista localizada na cavidade abdominal, atrás 🅟 do estômago e em frente à coluna vertebral. Ele se estende horizontalmente através do abdômen, ocupando a região do epigástrio e da porção superior do quadrante esquerdo.
+
+Anatomicamente, o pâncreas está localizado anteriormente aos rins, retroperitonealmente, e posteriormente ao estômago, duodeno e ao baço. Ele se estende da segunda parte do duodeno ao baço e sua cabeça está situada no interior da curvatura duodenal 🅟, enquanto a cauda se estende em direção ao baço 🅟
+
+As características histológicas dessa estrutura variam entre suas porções. A cabeça, que fica inserida no “C” duodenal, é mais rica em ácinos, que têm função endócrina, enquanto que o corpo e a cauda possuem mais ilhotas.
+
+Na sua porção mais próxima à curva do duodeno, esse órgão curva-se para a esquerda e forma um recesso denominado **incisura pancreática** além de um prolongamento chamado **processo uncinado** 🅟
+
+### A vesícula biliar
+
+Quanto à vesícula, essa apresenta três partes: uma porção transitória entre o seu interior e o ducto cístico denominado **colo**, um **corpo** e um **fundo** mais superior (similarmente ao estômago e ao útero).
+
+![vesicula-biliar-grays](vesicula-biliar-grays.jpg)
 
 > **CAIU EM PROVA!**
 > 
@@ -1740,13 +1912,13 @@ O fígado é uma estrutura excepcional do corpo humano, no sentido de que esse, 
 
 Isso se deve justamente por causa do seu papel fisiológico de servir como intermediário entre os nutrientes absorvidos no trato gastrointestinal e seu caminho até a circulação sistêmica.
 
-Isto é, quando os nutrientes são absorvidos pelo epitélio gastrointestinal, eles são levados pela **veia porta hepática** até o fígado. Lá esse vaso ramifica-se em milhares de pequenos capilares que irão compor a periferia de estruturas denominadas de **lóbulos hepáticos** (ou **lóbulos clássicos**) 🅟
+Isto é, quando os nutrientes são absorvidos pelo epitélio gastrointestinal, eles são levados pela **veia porta hepática** (ou simplesmente “veia hepática” 🅟) até o fígado. Lá esse vaso ramifica-se em milhares de pequenos capilares que irão compor a periferia de estruturas denominadas de **lóbulos hepáticos** (ou **lóbulos clássicos**) 🅟 Todo esse volume chega a contribuir com cerca de 75% de todo o suprimento sanguíneo do fígado 🅟, o que é testemunho para o papel que esse órgão tem na digestão.
 
 ![lobulo-hepatico-the-human-body](lobulo-hepatico-the-human-body.jpg)
 
 Quando o sangue venoso portal chega a essas unidades, ele atravessa os **sinusóides** (onde, inclusive, qualquer impureza ou patógeno é removido) e drena para a **veia central** do lóbulo 🅟
 
-É a veia central que levará o sangue detoxificado para um dos ramos da **veia hepática** (que supre 75% de todo o fígado 🅟), a qual drenará finalmente para a **veia cava inferior**, distribuindo os nutrientes para a circulação sistêmica.
+É a veia central que levará o sangue detoxificado para um dos ramos da **veia hepática**, a qual drenará finalmente para a **veia cava inferior**, distribuindo os nutrientes para a circulação sistêmica.
 
 ![vascularizacao-figado-grays](vascularizacao-figado-grays.jpg)
 
@@ -1782,7 +1954,7 @@ Além dessas vantagens morfológicas, há ainda dois achados comuns nesse epité
 
 Primeiro, há as **células caliciformes**, que secretam um muco que protege o epitélio das próprias enzimas digestivas secretadas por ele.
 
-Por fim, há as **microvilosidades** (que, em ampliações menores, compõem a **borda em escova** e só são encontradas no intestino delgado), cujo papel é aumentar a área de contato do epitélio com o lúmen do trato e otimizar a absorção dos nutrientes.
+Por fim, há as **microvilosidades** (que, em ampliações menores, compõem a **borda em escova**), as quais só são encontradas no intestino delgado. Seu papel é sobretudo aumentar a área de contato do epitélio com o lúmen de forma a otimizar a absorção dos nutrientes. Porém, ela também apresenta um papel importante para a digestão de carboidratos, visto que a **lactase** fica aderida a essa parte da mucosa 🅟
 
 ### EPITÉLIO CÚBICO ESTRATIFICADO 
 
@@ -1888,7 +2060,7 @@ Da camada mais interna para a mais externa:
 
 	Entre essas fibras, localizam-se dois grupos celulares responsáveis pela coordenação do movimento desses músculos:
 	
-- As **células intersticiais de Cajal**, que comunicam-se com as fibras por junções gap e promovem a propagação de **ondas lentas** da motilidade intestinal (que são a base para os movimentos maiores do intestino).
+- As **células intersticiais de Cajal**, que comunicam-se com as fibras por junções gap e promovem a propagação de **ondas lentas** (ou **tônicas**) da motilidade intestinal (que são a base para os movimentos maiores do intestino).
 
 > **MACETE:** Cajal --> Cajalento --> ondas lentas
 
@@ -1918,6 +2090,28 @@ Da camada mais interna para a mais externa:
 > 
 > ➊➋➌➍➎ = 🅐🅑🅒🅓🅔
 
+> **CAIU EM PROVA!**
+> 
+> “Analise as sentenças abaixo:”
+>
+> I) O músculo liso do trato gastrointestinal é excitado por atividade elétrica intrínseca, continua e lenta. Sendo essa atividade podendo ser de três tipos: ondas elétricas, potenciais em espícula e ondas tônicas
+>
+> II) O plexo mioentérico controla quase todos os movimentos gastrointestinais.
+> 
+> III) O plexo submucoso controla a secreção gastrointestinal e o fluxo sanguíneo local.
+>
+> IV) A intensa estimulação do sistema nervoso simpático pode inibir os movimentos motores do intestino
+>
+> RESOLUÇÃO:
+>
+> I) Incorreta. A motilidade gastrointestinal é composta por apenas dois tipos de onda: as ondas tônicas servem para criar uma frequência base, sobre a qual as ondas em espícula vão combinar-se e gerar o movimento de fato.
+>
+> II) Correta. O plexo mioentérico é o que fica entre as duas camadas musculares do TGI (circular interna e longitudinal externa). É ele o responsável pela coordenação da contração dessas fibras.
+>
+> III) Correta. O plexo submucoso controla a mucosa muscular, que é essencial para ejetar os conteúdos das glandulas gastrointestinais acima e regular, em menor parte, a vasoconstrição.
+>
+> IV) Correta. O simpático é o sistema da adrenalina, responsável por colocar o corpo em estado de “luta ou fuga” quando há a percepção de uma ameaça. Nessa situação, o organismo prioriza o funcionamento de certos órgãos essenciais para a sobrevivência (como ao acelerar o batimento do coração) em detrimento de outros menos essenciais a curto prazo (como o processo digestório). Lembre também que a motilidade gastrointestinal é protagonizada sobretudo pelo nervo vago, que é um nervo craniano. E, assim como todos os outros nervos craninanos, ele pertence ao sistema parassimpático, que é o antagonista do simpático e, portanto, encontra-se inibido por este no estado de estresse iminente.
+
 - **Serosa ou adventícia** A camada mais externa do intestino é composta por tecido conjuntivo e tecido epitelial. A serosa cobre a maior parte do intestino delgado e parte do intestino grosso, enquanto a adventícia é encontrada na parte restante do intestino grosso. Ela ajuda a proteger o intestino e a conectá-lo aos órgãos vizinhos.
 
 ##### O EPITÉLIO INTESTINAL
@@ -1937,11 +2131,15 @@ O epitélio do intestino contém vários tipos de células, incluindo:
 
 - **Células tronco**, responsáveis por regenerar e repor o epitélio intestinal. 
 
-- **Células L**, que secretam uma substância chamada “peptídeo similar ao glucagon 1” (“GLP-1”), cuja função é evitar o aumento súbito da glicemia após uma refeição.
+- **Células L**, que secretam as **incretinas** cuja função é evitar o aumento súbito da glicemia após uma refeição.
 
-	O mecanismo é bem simples: o GLP-1 tem seus próprios receptores nas células alfa do pâncreas (onde o glucagon é produzido). Quando esse peptídeo liga-se ao seu sítio, ele ativa uma cascata que inibe os mensageiros intermediários do glucagon.
+	O mecanismo é bem simples: as incretinas têm seus próprios receptores nas células alfa do pâncreas (onde o glucagon é produzido). Quando esse hormônio liga-se ao seu sítio, ele ativa uma cascata que inibe os mensageiros intermediários do glucagon.
 	
-	Além disso, ele regula positivamente a insulina, de modo a garantir que a glicose absorvida vá para os tecidos e não fique somente no sangue. Por fim, ele também tem efeito sobre o esvaziamento gástrico, para que ele não ocorra de forma muito súbita e sobrecarregue o corpo 🅟
+	Além disso, eles regulam positivamente a insulina, de modo a garantir que a glicose absorvida vá para os tecidos e não fique somente no sangue 🅟
+	
+	Por fim, ele também têm efeito sobre o esvaziamento gástrico, para que ele não ocorra de forma muito súbita e sobrecarregue o corpo 🅟
+
+	Os dois principais exemplos dessa classe são o **peptídeo insulinotrópico dependente de glicose** (GIP) e o **peptídeo semelhante ao glucagon-1** (GLP-1). Ambos são liberados pela presença de glicose e lipídeos na mucosa intestinal 🅟
 
 > **CAIU EM PROVA:**
 >
@@ -2009,6 +2207,8 @@ Inclusive, a razão AST/ALT é um importante indicador da gravidade de doenças 
 
 > **MACETE:** AL-P --> P --> fosfato --> sal --> sais biliares --> bile
 
+- Os níveis séricos dos próprios **sais biliares**, que indicam disfunção na **função de transporte** 🅟 do fígado (isto é, problemas no escoamento da bile produzida nos lóbulos).
+
 - A **antitrombina (AT)**, que é produzida no fígado e que encontra-se elevada nas mesmas condições que o AST.
 
 - A **lactato desidrogenase (LDH)**, que é essencial para o metabolismo energético por converter o lactato em piruvato durante a glicólise. Ele é bastante inespecífico e encontra-se elevado nas mesmas condições que o AST.
@@ -2065,7 +2265,7 @@ A deficiência na absorção de lipídeos decorrente da redução da bile result
 
 Por outro lado, na doença hepatocelular, são encontradas em níveis elevados certas enzimas que, usualmente, ficam contidas no interior das células, como o **ALT e AST** 🅟
 
-### Metabolismo do grupo heme 
+### Metabolismo do grupamento heme 
 
 As hemácias são células sanguíneas que transportam oxigênio para as células do corpo. Quando essas células envelhecem ou são danificadas, elas são removidas do corpo pelo **sistema reticuloendotelial**, que inclui o baço, o fígado e a medula óssea.
 
@@ -2129,13 +2329,35 @@ A absorção intestinal de carboidratos é mediada por 3 transportadores de memb
 >
 > GABARITO: 127 - (7 x 18)
 
+> **CAIU EM PROVA!**
+> 
+> “Sobre a absorção dos carboidratos pelas células epiteliais do intestino delgado, é INCORRETO afirmar que:”
+>
+> A) A frutose é absorvida através da membrana luminal por transporte ativo secundário.
+>
+> B) A glicose é absorvida através da membrana luminal por transporte ativo secundário.
+> 
+> C) A galactose, a frutose e a glicose passam da célula intestinal para o sangue através da membrana basal por difusão facilitada.
+>
+> D) As células do intestino delgado são incapazes de absorverem oligopolissacarídeos
+>
+> RESOLUÇÃO:
+>
+> A) Incorreta. O transporte é dito ativo secundário quando ele ocorre usando a energia gerada pela difusão de outro metabólito. No caso dos carboidratos, apenas a glicose e a galactose fazem uso desse mecanismo (através dos canais cotransportadores de sódio).
+>
+> B) Correta. Vide a resolução acima.
+>
+> C) Correta. Visto que há transporte ativo na região apical dos enterócitos, o citoplasma dessas células costuma ter uma concentração maior desses metabólitos do que a circulação. Em outras palavras, o gradiente da passagem desses carboidratos para o sangue é positivo e, portanto, o transporte é passivo e não necessita de energia (é realizado por difusão facilitada por um canal).
+>
+> D) Correta. A única alternativa para os oligopolissacarídeos que não podem ser digeridos pelo trato digestório é a sua fermentação pela microbiota intestinal.
+
 ### As fibras alimentares
 
 As fibras alimentares, apesar de não serem absorvidas pelo trato gastrointestinal, são extremamente benéficas para a fisiologia desse sistema.
 
 Seu papel mais proeminente é o de promover a retenção de água no bolo fecal e facilitar a motilidade do intestino.
 
-Porém, avanços na compreensão dessas substâncias revelaram que sua atuação vai muito além do auxílio na motilidade. Na realidade, certas fibras, especialmente as denominadas **solúveis**, são parcialmente digeridas 🅟, liberando frações que criam uma camada de água estacionária entre a mucosa e o lúmen do intestino, o que reduz a absorção excessiva de carboidratos e lipídios 🅟 Inclusive, essa camada também reduz a reabsorção 🅟 de sais biliares, o que ajuda a controlar os níveis de colesterol no sangue.
+Porém, avanços na compreensão dessas substâncias revelaram que sua atuação vai muito além do auxílio na motilidade. Na realidade, certas fibras, especialmente as denominadas **solúveis**, são parcialmente digeridas 🅟, liberando frações que criam uma camada de água estacionária entre a mucosa e o lúmen do intestino, o que reduz a absorção excessiva de carboidratos e lipídios 🅟 Inclusive, essa camada também reduz a reabsorção 🅟 de sais biliares no íleo 🅟, o que ajuda a controlar os níveis de colesterol no sangue.
 
 Dentre as fibras solúveis, encontramos a pectina (das frutas), os betaglicanos (de certos grãos e cogumelos 🅟) e a inulina (de certas verduras). Já quanto às **insolúveis**, temos o exemplo clássico da celulose, da hemicelulose e da lignina 🅟 (presentes nas folhas verdes).
 
@@ -2161,7 +2383,15 @@ Dentre as fibras solúveis, encontramos a pectina (das frutas), os betaglicanos 
 
 Os lipídeos da dieta são majoritariamente de dois tipos: triglicerídeos e colesterol.
 
-Os triglicerídeos, antes de serem absorvidos, são completamente 🅟 hidrolizados no lúmen intestinal em ácidos graxos e glicerol 🅟 pela ação das lipases e da colipase pancreática 🅟 (a colipase é uma substância produzida pelo próprio pâncreas que se liga aos lipídeos e ajuda na sua catálise). Parte desse material, especialmente os lipídeos de cadeia curta ou média 🅟, cai diretamente na circulação por difusão 🅟 e é transportado sob a forma de **ácidos graxos livres** 🅟 Porém, a maioria desses compostos atravessa o epitélio e forma, na circulação, uma estrutura chamada **quilomicron** (composto também por fosfolipídeos e por lipoproteínas produzidas pelos próprios enterócitos 🅟). Dentro dessa formação, os ácidos graxos e o glicerol se reagrupam novamente em triglicerídeos e compõem o núcleo mais substancial dessas partículas.
+Os triglicerídeos, antes de serem absorvidos, são  hidrolizados no lúmen intestinal em ácidos graxos e glicerol 🅟 pela ação das lipases e da colipase pancreática 🅟 (a colipase é uma substância produzida pelo próprio pâncreas que se liga aos lipídeos e ajuda na sua catálise).
+
+Porém, essa hidrólise não é completa 🅟, visto que os triglicerídeos contém 3 ácidos graxos e apenas 2 são hidrolizados por vez. O que resta são pequenos resíduos de “monoglicerol” (um glicerol ligado a apenas 1 ácido graxo) que, felizmente, podem ser absorvidos assim mesmo, sem precisar de mais processamento.
+ 
+Após a absorção dessas partículas, o seu destino depende do tamanho da cadeia carbônica. Os ácidos graxos de cadeia curta ou média 🅟 caem diretamente na circulação por difusão* 🅟 e são transportado sob a forma de **ácidos graxos livres** 🅟 
+
+Já os de cadeia longa, esses atravessam o epitélio e formam, na circulação, uma estrutura chamada **quilomicron** (composto também por fosfolipídeos e por lipoproteínas produzidas pelos próprios enterócitos 🅟). Dentro dessa formação, os ácidos graxos e o glicerol se reagrupam novamente em triglicerídeos e compõem o núcleo mais substancial dessas partículas.
+
+> **OBSERVAÇÃO:** Nas provas, o gabarito oficial diz que os lipídeos entram por difusão passiva. Entretanto, os ácidos graxos parecem ter seus próprios transportadores de membrana (o que seria considerado uma difusão facilitada).
 
 Já quanto ao colesterol, esse não é quebrado no lúmen e atravessa o epitélio intacto. Dentro dos quilomicrons, ele encontra-se associado aos ácidos graxos, formando os **ésteres de colesterol**.
 
@@ -2200,3 +2430,13 @@ Além disso, um aspecto importante da absorção dos lipídeos é o seu papel de
 ![micela](micela.jpeg)
 
 São essas micelas que englobam em seu interior moléculas lipofílicas, como a **vitamina D** 🅟, e facilitam sua passagem através do epitélio intestinal (devido à sua afinidade com a membrana dos enterócitos).
+
+### Metabolismo das proteínas
+
+As proteínas são degradadas no trato gastrointestinal por enzimas como a pepsina, tripsina e quimiotripsina. Os peptídeos resultantes são, então, absorvidos por um processo de transporte ativo 🅟 chamado **cotransporte** (ou **simporte**), no qual os aminoácidos e peptídeos entram acompanhando os íons de sódio.
+
+No citoplasma das células epiteliais, a degradação dos peptídeos é continuada 🅟 e os aminoácidos restantes são movidos para a circulação.
+
+Entretanto, certas pessoas apresentam reação adversa para um tipo específico de proteína encontrada no trigo, no centeio e na cevada denominada **glúten**. O glúten é uma molécula complexa formada por duas unidades menores: a **gliadina** 🅟 e a **glutenina**. Quando essa proteína entra em contato com a mucosa de pessoas portadoras da **doença celiaca**, o sistema imune reage adversamente, atacando, não só o glúten, como também as próprias células do epitélio do intestino.
+
+Essa reação provoca alterações morfológicas na mucosa intestinal: as vilosidades ficam achadas (perda da borda em escova), as criptas ficam obstruídas e o tecido fica inflamado. Tudo isso contribui para a perda de função do epitélio e para a gama de sintomas que essas pessoas podem apresentar, como diarreia, dor, fadiga, perda de peso e anemia.
