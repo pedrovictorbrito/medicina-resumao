@@ -908,15 +908,17 @@ Além disso, o equilíbrio correto dos níveis desses hormônios é essencial pa
 
 ### A produção dos hormônios tireoideanos
 
-O T3 e o T4 são produzidos no interior do citoplasma 🅟 das células foliculares da tireóide. Entretanto, sua síntese depende de uma via complexa que inicia-se com a captação do iodo circulante.
+O T3 e o T4 são produzidos no interior do citoplasma 🅟 das células foliculares da tireóide. Entretanto, sua síntese depende de uma via complexa que inicia-se com a captação do iodeto (íon iodo) circulante.
 
 ![bioquimica-da-tireoide-carlson](bioquimica-da-tireoide-carlson.jpg)
 
-Após a absorção do iodo sérico, ele é liberado dentro do folículo tireoideano por uma canal de membrana chamado **pedrina**.
+Os átomos de iodo iniciam esse processo na forma ionizada, pois os íons são mais solúveis em água e possuem diâmetro menor, o que facilita tanto sua captação quanto sua posterior secreção no folículo por um canal de membrana chamado **pedrina**
 
-É a junção desse iodo folicular com os resíduos de tirosina 🅟 de uma proteína denominada **tireoglobulina** (sintetizada pelo epitélio da tireóide e igualmente secretada no folículo), que gera o **colóide tireoideano** num processo chamado **iodinação**
+No folículo, o iodeto sofre oxidação por uma enzima chamada **tireoperodixase** (TPO) e é somente a partir daí que ele vira, de fato, uma molécula diatômica de iodo (I2). Essa transformação é necessária para que aconteça a próxima etapa da biossíntese dos hormônios, que envolve a ligação covalente entre o iodo molecular e os resíduos de tirosina 🅟 de uma proteína denominada **tireoglobulina** (sintetizada pelo epitélio da tireóide e também secretada no folículo). É nesse proceso, chamado **iodinação**, que é gerado o **colóide tireoideano**.
 
-É como colóide que os precursores dos hormônios tireoideanos ficam armazenados até que haja necessidade fisiológica de sua secreção. Quando esse momento chega, o epitélio reabsorve o colóide por endocitose (por isso a presença de pseudópodos nessas células) e desconjulga os resíduos iodados de tirosina (monoiodotirosina - MIT - e diiodotirosina - DIT) para, em seguida, combiná-los e formar o T3 e o T4 de fato num processo conhecido como **iodação** 🅟 Para formar a tiroxina (T4), duas moléculas de DIT se combinam, enquanto que, para a triiodotironina (T3), uma molécula de DIT e uma de MIT se unem.
+> **OBSERVAÇÃO:** Essa etapa da oxidação do iodeto em iodo diatômico é alvo do mecanismo de ação de certos medicamentos indicados para a redução dos níveis de hormônios tireoideanos, como a **propiltiouracila** 🅟
+
+E é como colóide que os precursores dos hormônios tireoideanos ficam armazenados até que haja necessidade fisiológica de sua secreção. Quando esse momento chega, o epitélio reabsorve o colóide por endocitose (por isso a presença de pseudópodos nessas células) e desconjulga os resíduos iodados de tirosina (monoiodotirosina - MIT - e diiodotirosina - DIT) para, em seguida, combiná-los e formar o T3 e o T4 de fato num processo conhecido como **iodação** 🅟 Para formar a tiroxina (T4), duas moléculas de DIT se combinam, enquanto que, para a triiodotironina (T3), uma molécula de DIT e uma de MIT se unem.
 
 > **CAIU EM PROVA!**
 > 
@@ -1802,7 +1804,7 @@ Por esse motivo, no trato gastrointestinal, esse tipo de epitélio é encontrado
 
 As papilas gustativas são elevações da própria mucosa lingual e recobrem toda a superfície dorsal da língua. Elas são o local onde se encontram os corpúsculos gustativos, que são pequenas regiões não queratinizadas 🅟 da papila nas quais verdadeiramente ocorre a percepção do sabor. Tais papilas podem ser de quatro tipos:
 
-- As **papilas filiformes** são desprovidas de botões gustativos e têm função estritamente mecânica. São as menores e as mais numerosas dentre as quatro. Consistem de pequenas projeções de epitélio estratificado pavimentoso queratinizado com extremidades viradas posteriormente.
+- As **papilas filiformes** são desprovidas de botões gustativos e têm função estritamente mecânica. São as menores e as mais numerosas dentre as quatro. Consistem de pequenas projeções de epitélio estratificado pavimentoso queratinizado de formato cônico alongado 🅟 com extremidades viradas posteriormente.
 
 ![papilas-filiformes-ross](papilas-filiformes-ross.jpg)
 
@@ -1810,7 +1812,7 @@ As papilas gustativas são elevações da própria mucosa lingual e recobrem tod
 >
 > Fili --> sem botões gustativos 
 
-- As **papilas fungiformes** têm formato de cogumelo e são encontradas dispersas entre as filiformes nos dois terços anteriores da língua. Diferentemente das anteriores, apresentam botões gustativos.
+- As **papilas fungiformes** têm formato de cogumelo (base estreita e porção superior dilatada) 🅟 e são encontradas dispersas entre as filiformes nos dois terços anteriores da língua. Diferentemente das anteriores, apresentam botões gustativos.
 
 ![papila-fungiforme-ross](papila-fungiforme-ross.jpg)
 
@@ -2075,7 +2077,7 @@ Quando esse processo ocorre no fígado, a bilirrubina produzida ainda sofre um p
 
 A **bilirrubina conjugada** tem, então, dois destinos:
 
-- Primeiramente, ela pode ser secretada na **bile**, que é armazenada na vesícula biliar e liberada no trato gastrointestinal para ajudar na digestão de gorduras (e cuja obstrução gera o seu acúmulo e consequente icterícia)
+- Primeiramente, ela pode ser secretada 🅟 na **bile**, que é armazenada na vesícula biliar e liberada no trato gastrointestinal para ajudar na digestão de gorduras (e cuja obstrução gera o seu acúmulo e consequente icterícia)
 
 	No trato gastrointestinal, a bilirrubina é transformada em **urobilinogênio** e **urobilina** por bactérias presentes no intestino. Parte dessas substâncias é excretada nas fezes, dando-lhes sua cor característica.
 
@@ -2159,7 +2161,7 @@ Dentre as fibras solúveis, encontramos a pectina (das frutas), os betaglicanos 
 
 Os lipídeos da dieta são majoritariamente de dois tipos: triglicerídeos e colesterol.
 
-Os triglicerídeos, antes de serem absorvidos, são completamente 🅟 hidrolizados no lúmen intestinal em ácidos graxos e glicerol 🅟 Parte desse material, especialmente os lipídeos de cadeia curta ou média 🅟, cai diretamente na circulação por difusão 🅟 e é transportado sob a forma de **ácidos graxos livres** 🅟 Porém, a maioria desses compostos atravessa o epitélio e forma, na circulação, uma estrutura chamada **quilomicron** (composto também por fosfolipídeos e por lipoproteínas produzidas pelos próprios enterócitos 🅟). Dentro dessa formação, os ácidos graxos e o glicerol se reagrupam novamente em triglicerídeos e compõem o núcleo mais substancial dessas partículas.
+Os triglicerídeos, antes de serem absorvidos, são completamente 🅟 hidrolizados no lúmen intestinal em ácidos graxos e glicerol 🅟 pela ação das lipases e da colipase pancreática 🅟 (a colipase é uma substância produzida pelo próprio pâncreas que se liga aos lipídeos e ajuda na sua catálise). Parte desse material, especialmente os lipídeos de cadeia curta ou média 🅟, cai diretamente na circulação por difusão 🅟 e é transportado sob a forma de **ácidos graxos livres** 🅟 Porém, a maioria desses compostos atravessa o epitélio e forma, na circulação, uma estrutura chamada **quilomicron** (composto também por fosfolipídeos e por lipoproteínas produzidas pelos próprios enterócitos 🅟). Dentro dessa formação, os ácidos graxos e o glicerol se reagrupam novamente em triglicerídeos e compõem o núcleo mais substancial dessas partículas.
 
 Já quanto ao colesterol, esse não é quebrado no lúmen e atravessa o epitélio intacto. Dentro dos quilomicrons, ele encontra-se associado aos ácidos graxos, formando os **ésteres de colesterol**.
 
