@@ -169,7 +169,6 @@
   * [As fibras alimentares](#as-fibras-alimentares)
 
   * [A absorção dos lipídeos](#a-absorção-dos-lipídeos)
- 
 
 ## Anatomia do sistema reprodutor 
 
@@ -179,23 +178,22 @@
 
 ### O escroto
 
-![escroto-e-testiculos-openstax-2022](escroto-e-testiculos-openstax-2022.jpg)
-
 Os testículos estão localizados em um saco muscular denominado “escroto” que fica posteriormente ao pênis. Esse saco é recoberto por uma camada de pele altamente pigmentada sobre a qual é possível observar um espessamento mediano chamado **rafe escrotal** (rafe = do grego, _“costura”_).
 
 ![escroto-rafe-openstax-2022](escroto-rafe-openstax-2022.jpg)
+![rafe-grays](rafe-grays.jpg)
 
 Quanto à camada muscular em si, essa é formada por dois músculos: **o dartos e o cremaster**.
 
-![cremaster-dartos-openstax-2022](cremaster-dartos-openstax-2022.jpg)
+![cremaster-dartos-grays](cremaster-dartos-grays.jpg)
 
 O dartos, ou “túnica dartos”, é um músculo liso subcutâneo do escroto que também compõe o **septo escrotal**, estrutura que divide o saco em dois compartimentos.
 
-![septo-escrotal-openstax-2022](septo-escrotal-openstax-2022.jpg)
+![dartos-septo-grays](dartos-septo-grays.jpg)
 
 Já quanto ao cremaster, suas fibras descendem do músculo oblíquo interno 🅟 e abraçam os testículos e o cordão espermático como uma rede. 
 
-![musculos-escroto-thibodeau-and-paton-2007](musculos-escroto-thibodeau-and-paton-2007.jpg)
+![cremaster-obliquo-interno-grays](cremaster-obliquo-interno-grays.jpg)
 
 Quando ambos os músculos se contraem, o testículo é elevado para mais próximo ao corpo, o que é útil para mantê-lo aquecido durante dias frios. Isso se deve tanto à condução do calor corporal quanto à diminuição da área de superfície dessa estrutura (o que reduz o contato do escroto com o ar frio do ambiente).
 
@@ -268,8 +266,7 @@ Já a respeito do tubo deferente, esse apresenta-se dentro do escroto envolvido 
 O papel desse duto é de, no momento da ejaculação, ejetar os espermatozóides (com o auxílio de suas paredes musculares) para fora do escroto, através do **canal inguinal** e, eventualmente, para uma estrutura denominada **ampola** localizada posteriormente à bexiga (que nada mais é do que uma dilatação do próprio tubo).
 
 ![duto-deferente-thibodeau-and-paton-2007](duto-deferente-thibodeau-and-paton-2007.jpg)
-![ampoula-openstax-2022](ampoula-openstax-2022.jpg)
-![ampoula-boron-and-boulpaep-2012](ampoula-boron-and-boulpaep-2012.jpg)
+![ampola-ducto-deferente-grays](ampola-ducto-deferente-grays.jpg)
 
 > **CORRELAÇÃO CLÍNICA:** VASECTOMIA
 >
@@ -354,11 +351,15 @@ Também chamadas de **glândulas de Cowper**, são elas que produzem o líquido 
 
 Note que ela fica aderida firmemente à base do pênis (bulbo) e entre as fibras do **músculo transverso profundo do períneo**.
 
-### O pênis 
+### O pênis e a uretra esponjosa
+
+![penis-grays](penis-grays.jpg)
 
 O pênis é composto por três câmaras de tecido erétil em formato de coluna.
 
 As duas câmaras maiores laterais são os **corpos cavernosos**. Eles são os que de fato  constituem a maior parte do volume do pênis.
+
+Na parte profunda do períneo, esses corpos continuam e estabelecem projeções chamadas **ramos do pênis** (análogos aos ramos do clítoris).
 
 ![corpo-cavernoso-openstax-2022](corpo-cavernoso-openstax-2022.jpg)
 
@@ -376,14 +377,13 @@ Porém, há ainda uma coluna ímpar que circunda a uretra e que pode ser sentida
 > 
 > Corpo cavernoso --> mais perto das paredes do canal vaginal (durante a penetração)
 
-Por fim, há ainda a **glande**, uma estrutura rica em terminações nervosas e a que melhor contribui para o estímulo sexual.
+Na sua extremidade, é possível observar a **glande**, uma estrutura rica em terminações nervosas e a que melhor contribui para o estímulo sexual.
 
-![glande-openstax-2022](glande-openstax-2022.jpg)
-![glande-thibodeau-and-paton-2007](glande-thibodeau-and-paton-2007.jpg)
+![glande-grays](glande-grays.jpg)
 
-Note que, no pênis não-circuncisado, uma capa protetora de pele denomida **prepúcio** recobre, lubrifica e protege a glande.
+Sua borda mais proeminente recebe o nome de **coroa** e a região delimitada entre essa e a parte mais distal da pele do pênis (o **prepúcio**) é chamada de **sulco balanoprepucial** 🅟 (ou **sulco coronal**).
 
-![prepucio-openstax-2022](prepucio-openstax-2022.jpg)
+![coroa-balanoprepucial-grays](coroa-balanoprepucial-grays.jpg)
 
 > **MACETE:**
 >
@@ -395,12 +395,21 @@ Note que, no pênis não-circuncisado, uma capa protetora de pele denomida **pre
 >
 > É a pontinha do pênis que aparece quando ele está ereto
 
-### Músculos acessórios da ejaculação 
+Ligando o prepúcio à glande, encontramos o **frênulo**, cuja elasticidade é importante ser estimulada desde a infância para evitar incômodos durante o estado erétil.
 
-Junto com os músculos do assoalho pélvico, os músculos **isquiocavernoso** e o **bulbocavernoso** são essenciais para desenvolver a força contrátil da ejaculação.
+![frenulo-penis-grays](frenulo-penis-grays.jpg)
 
-![ischiocavernosus-grays](ischiocavernosus-grays.png)
-![bulbospongiosus-grays](bulbospongiosus-grays.png)
+Já no interior da glande, temos acesso à **parte esponjosa da uretra**. Esse canal inicia-se com uma dilatação chamada **fossa navicular** 🅟 e termina na primeira curvatura do pênis que ocorre dentro de uma expansão do corpo esponjoso denominada **bulbo**.
+
+![curvaturas-penis-grays](curvaturas-penis-grays.jpg)
+
+Esse bulbo é a parte do pênis que é englobada pelo músculo **bulbocavernoso**, enquanto que os ramos do pênis são englobados pelo **ísquiocavernoso**, ambos importantes para desenvolver a força contrátil da musculação.
+
+![sustentacao-penis-grays](sustentacao-penis-grays.jpg)
+
+Por fim, há ainda os ligamentos **suspensor** e **fundiforme** do pênis, que possuem papel sustentador para essa estrutura.
+
+![fundiforme-penis-grays](fundiforme-penis-grays.jpg)
 
 ### O SISTEMA REPRODUTOR FEMININO
 
@@ -477,6 +486,8 @@ Além disso, é importante saber também que o útero é suspenso por uma série
 ![ligamentos-utero-grays](ligamentos-utero-grays.png)
 
 O ligamento largo é, na realidade, uma dobra do _peritônio_, e não um ligamento verdadeiro. De qualquer forma, sua estrutura pode ser divida em três partes: **mesovário** (englobando a estrutura de mesmo nome), **mesossalpinge** (que une o ovário à tuba) e o **mesométrio** (que une o ovário ao útero).
+
+![ligamentos-utero-grays](ligamentos-utero-grays.jpg)
 
 > **CORRELAÇÃO CLÍNICA:** Prolapso uterino
 >
@@ -1405,7 +1416,7 @@ O cemento dentário é importante porque ajuda a ancorar as fibras do ligamento 
 
 O istmo das fauces é uma estrutura localizada na parte posterior da boca, entre as amígdalas e a base da língua. É uma abertura estreita que conecta a cavidade oral à faringe. É por onde o alimento e a bebida passam para chegar à faringe e ao esôfago.
 
-O istmo das fauces é formado pelos **pilares palatoglossos** e **palatofaríngeos**, que são dobras de tecido que se estendem para baixo do palato mole. A função dessas dobras é ajudar a manter a garganta aberta e permitir a passagem de alimentos e líquidos.
+O istmo das fauces é formado pelos **pilares palatoglossos** e **palatofaríngeos** 🅟, que são dobras de tecido que se estendem para baixo do palato mole. A função dessas dobras é ajudar a manter a garganta aberta e permitir a passagem de alimentos e líquidos.
 
 ![arcos-istmo-medial-grays](arcos-istmo-medial-grays.jpg)
 
@@ -1892,7 +1903,7 @@ A celíaca subdivide-se em:
 
 Já a artéria mesentérica superior tem como ramos:
 
-- **Artéria pancreaticoduodenal inferior:** que nutre o duodeno e a cabeça do pâncreas (a parte do pâncreas mais próxima do trato gastrointestinal).
+- **Artéria pancreaticoduodenal inferior:** que nutre o duodeno e a cabeça do pâncreas (a parte do pâncreas mais próxima do trato gastrointestinal) (OBS: a pancreaticaduodenal superior é ramo da gastroduodenal que é ramo da hepática comum 🅟 do tronco celíaco)
 - **Artérias intestinais:** que suprem o intestino delgado (incluindo o jejuno e o íleo).
 - **Artéria ileocólica:** que irriga o fim do íleo e o ceco.
 - **Artéria cólica direita:** que nutre o cólon ascendente (que fica na parte direita do abdômen).
@@ -2059,6 +2070,10 @@ Da camada mais interna para a mais externa:
 - **Mucosa:** É a parte mais interna do intestino, responsável pela absorção de nutrientes. É composta por três subcamadas: 
 
 	- O **epitélio intestinal**, que contém várias células especializadas, incluindo células caliciformes, células enteroendócrinas e células absortivas (_ver “O epitélio intestinal”)_, além de glândulas que secretam muco e enzimas digestivas.
+
+		No epitélio intestinal específico do **íleo** 🅟, há também um tipo celular especial chamado de **célula M**, que é uma estrutura com micropregas na região apical que captura antígenos e os entrega para as células do sistema imune na **placa de Payer** da lâmina própria ileal 🅟
+
+		![celula-M-ross](celula-M-ross.jpg)
 
 	- A **lâmina própria**, feita de tecido conjuntivo frouxo e onde trafegam os vasos linfáticos, responsáveis pela imunidade intestinal, e os capilares sanguíneos, encarregados de absorver os hormônios secretados pelo epitélio.
 
