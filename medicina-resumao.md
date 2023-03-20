@@ -892,11 +892,21 @@ Portanto, quando o cálcio está ausente, a membrana bombeia pouco potássio par
 
 ### A TIREÓIDE 
 
-![anatomia-tireoide-ganong](anatomia-tireoide-ganong.jpg)
+A tireoide é uma glândula em forma de borboleta localizada na parte anterior do pescoço, logo abaixo do pomo-de-adão e consiste em dois **lobos** que estão conectados por uma faixa de tecido conhecida como **istmo**.
+
+![tireoide-grays](tireoide-grays.jpg)
+
+Além disso, existe uma pequena estrutura conhecida como lobo piramidal, que pode estar presente na parte superior da tireoide e é formada por um tecido tireoidiano adicional que se estende para cima do istmo. Essa estrutura é encontrada em cerca de 50% das pessoas e é resultado da origem embrionária da tireóide (quando as células progenitoras dessa glândula descendem do epitélio da língua)
+
+![anatomia-tireoide-ganong](anatomia-tireoide-ganong.jpg) 
+
+As paratireóides são 4 pequenos agrupamentos esféricos amarelos que encontram-se posteriormente aos lobos (2 para cada um). Elas podem estar localizadas na superfície externa da tireoide ou dentro do tecido da tireoide.
 
 ### Os hormônios tireoideanos e seus efeitos
 
-Os hormônios tireoideanos são dois: o **T3 e o T4**. Apesar de muito similares, o primeiro é o mais ativo fisiologicamente e o que mais contribui para os efeitos hormonais do conjunto. Entre esses efeitos, há o aumento generalizado do catabolismo e, por consequência, da temperatura corporal 🅟 Por esse motivo, em pacientes que apresentam deficiência ou excesso desses hormônios, é possível observar respectivamente uma sensação generalizada de letargia ou agitação.
+Os hormônios tireoideanos são dois: o **T3 e o T4**. Apesar de muito similares, o primeiro é o mais ativo fisiologicamente e o que mais contribui para os efeitos hormonais do conjunto. Entre esses efeitos, há o aumento generalizado do catabolismo e, por consequência, da temperatura corporal 🅟 Por esse motivo, em pacientes que apresentam deficiência ou excesso desses hormônios, é possível observar respectivamente uma sensação generalizada de letargia ou agitação. 
+
+Outra consequência da aceleração do metabolismo causada por esses hormônios é a intensificação da motilidade gastrointestinal, que, quando excessiva, resulta em problemas de absorção devido à passagem rápida demais do conteúdo digestório pelas porções absorptivas 🅟
 
 > **CAIU EM PROVA:**
 >
@@ -1157,7 +1167,7 @@ As glândulas adrenais são formadas por uma **cápsula fibrosa** que engloba um
 
 ![zonas-cortex-adrenal-boron-and-boulpaep-2012](zonas-cortex-adrenal-boron-and-boulpaep-2012.jpg)
 
-No córtex podemos identificar:
+O córtex é a região das suprarrenais que produz somente hormônios esteróides 🅟. Nela podemos distinguir três camadas celulares:
 
 - A zona **glomerulosa**, que secreta a **aldosterona**
 
@@ -1586,7 +1596,7 @@ O controle dessa progressão é dado por dois mecanismos:
 
 - Primeiro, há a influência do **piloro**, um esfíncter que controla a entrada do bolo alimentar e do suco gástrico para a parte mais proximal do duodeno, o **bulbo**. Quando isso ocorre, receptores da mucosa intestinal respondem à acidez do quimo e desencadeiam dois mecanismos de proteção ao epitélio duodenal:
 
-	Inicialmente , há a liberação de uma secreção alcalina pelas **glândulas de Brunner** da submucosa duodenal 🅟, o que ajuda o intestino a defender-se do primeiro contato com o conteúdo gástrico. 
+	Inicialmente , há a liberação de uma secreção alcalina pelas **glândulas de Brunner** da submucosa duodenal 🅟, o que ajuda o intestino a defender-se do primeiro contato com o conteúdo gástrico. Essas células liberam sua secreção em pequenos sulcos na mucosa intestinal chamados de  **criptas de Lieberkuhn** 🅟 (_ver “Aprofundamento de órgãos específicos”_)
 
 - Em seguida há a liberação de **secretina**, que tem o efeito duplo de estimular tanto a produção de secreções biliares e pancreáticas quanto a sua liberação no lúmen do duodeno. Dentre essas substâncias, há o **bicarbonato** (para neutralizar a acidez da mistura), a **bile** (produzida 🅟 pelo fígado e armazenada 🅟 pela vesícula biliar) e o **suco pancreático**.
 
@@ -1781,6 +1791,8 @@ e, por fim, as impressões **gástrica** e **esofágica**, que ficam no lobo esq
 O pâncreas é uma glândula mista localizada na cavidade abdominal, atrás 🅟 do estômago e em frente à coluna vertebral. Ele se estende horizontalmente através do abdômen, ocupando a região do epigástrio e da porção superior do quadrante esquerdo.
 
 Anatomicamente, o pâncreas está localizado anteriormente aos rins, retroperitonealmente, e posteriormente ao estômago, duodeno e ao baço. Ele se estende da segunda parte do duodeno ao baço e sua cabeça está situada no interior da curvatura duodenal 🅟, enquanto a cauda se estende em direção ao baço 🅟
+
+Esse posicionamento é importante pois ele determina as peculiaridades da vascularização desse órgão. Por exemplo, a cabeça, que fica mais próxima ao duodeno, é irrigada por pela artéria **pancreaticoduodenal** (ramo da mesentérica superior), enquanto que o corpo e a cauda, que estão próximos ao baço, têm suprimento da **esplênica** (ramo do tronco celíaco) 🅟
 
 As características histológicas dessa estrutura variam entre suas porções. A cabeça, que fica inserida no “C” duodenal, é mais rica em ácinos, que têm função endócrina, enquanto que o corpo e a cauda possuem mais ilhotas.
 
@@ -2022,7 +2034,7 @@ Já o segundo tipo, as **glândulas salivares maiores**, são três no total: as
 
 ![salivares-brief](salivares-brief.jpg)
 
-Nas parótidas, que possuem uma secreção mais aquosa, as células são cuboides com núcleo circular. A saliva produzida por essas estruturas contém bicarbonato (para neutralizar o ambiente oral), ions (para manter o equilíbrio osmótico), enzimas digestivas (como a amilase) e substâncias de defesa, como a lisozima (que age diretamente na parede celular das bactérias) e a lactoferrina (que sequestra o ferro do qual os microrganismos dependem para proliferar-se) 🅟 O ducto que leva suas secreções desemboca no vestíbulo da boca 🅟, na altura dos segundo molares:
+Nas parótidas, que possuem uma secreção mais aquosa, as células são cuboides com núcleo circular. A saliva produzida por essas estruturas contém bicarbonato (para neutralizar o ambiente oral), ions (para manter o equilíbrio osmótico), enzimas digestivas (como a amilase 🅟) e substâncias de defesa, como a lisozima (que age diretamente na parede celular das bactérias) e a lactoferrina (que sequestra o ferro do qual os microrganismos dependem para proliferar-se) 🅟 O ducto que leva suas secreções desemboca no vestíbulo da boca 🅟, na altura dos segundo molares:
 
 ![ducto-parotido-vestibulo](ducto-parotido-vestibulo.jpeg)
 
@@ -2125,7 +2137,7 @@ O epitélio do intestino contém vários tipos de células, incluindo:
 
 - **Células caliciformes ou células globosas** que secretam muco, ajudando a lubrificar e proteger o revestimento intestinal de substâncias prejudiciais.
 
-- **Células enteroendócrinas** que liberam hormônios que regulam a digestão e a absorção de nutrientes.
+- **Células enteroendócrinas** que liberam hormônios que regulam a digestão e a absorção de nutrientes (é um dos poucos tipos celulares que é comum tanto ao estômago quando ao intestino 🅟)
 
 - **Células de Paneth** (do intestino delgado), que secretam peptídeos antimicrobianos e enzimas que ajudam a defender o revestimento intestinal contra bactérias prejudiciais.
 
